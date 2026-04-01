@@ -1,0 +1,1501 @@
+airline,airline_sentiment,text
+United,negative,The staff was incredibly rude and unhelpful. @United #awful
+US Airways,neutral,Just another flight. @USAirways
+Delta,negative,"Horrible boarding process, chaotic and stressful. @Delta #awful"
+US Airways,negative,Worst experience of my life. Flight delayed by 4 hours. @USAirways #awful
+American,positive,I had a wonderful flight experience today! The crew was so polite. @American #amazing
+American,neutral,Got from A to B safely. @American
+US Airways,neutral,"Food was okay, pretty standard for airline food. @USAirways"
+American,negative,Seats are too small and uncomfortable. @American #awful
+American,positive,Best flight ever. Will fly with you again. @American #amazing
+American,negative,"Food was awful, could not eat anything. @American #awful"
+American,positive,Super fast and efficient boarding process. Loved it! @American #amazing
+Virgin America,neutral,Boarding was standard. @VirginAmerica
+Virgin America,negative,Terrible customer service on the phone. @VirginAmerica #awful
+American,negative,Why is my flight always delayed without any notice? @American #awful
+American,neutral,Boarding was standard. @American
+United,positive,Smooth landing and great pilot. @United #amazing
+Delta,positive,Thank you for the amazing service. @Delta #amazing
+Virgin America,neutral,Arrived on time. Standard experience. @VirginAmerica
+Delta,neutral,Just another flight. @Delta
+Delta,negative,Seats are too small and uncomfortable. @Delta #awful
+Southwest,negative,Terrible customer service on the phone. @Southwest #awful
+Southwest,negative,The staff was incredibly rude and unhelpful. @Southwest #awful
+Delta,positive,Smooth landing and great pilot. @Delta #amazing
+US Airways,negative,Never flying with you again. Absolutely terrible. @USAirways #awful
+United,positive,Great customer service at the gate. @United #amazing
+US Airways,positive,Thank you for the amazing service. @USAirways #amazing
+Southwest,negative,Terrible customer service on the phone. @Southwest #awful
+US Airways,neutral,Boarding was standard. @USAirways
+American,positive,Very comfortable seats and plenty of legroom. @American #amazing
+American,positive,The food was surprisingly good. @American #amazing
+Southwest,neutral,Arrived on time. Standard experience. @Southwest
+Southwest,negative,Never flying with you again. Absolutely terrible. @Southwest #awful
+US Airways,neutral,Arrived on time. Standard experience. @USAirways
+US Airways,positive,Super fast and efficient boarding process. Loved it! @USAirways #amazing
+United,neutral,Boarding was standard. @United
+Delta,neutral,Arrived on time. Standard experience. @Delta
+Virgin America,negative,Never flying with you again. Absolutely terrible. @VirginAmerica #awful
+US Airways,negative,"Horrible boarding process, chaotic and stressful. @USAirways #awful"
+United,negative,Seats are too small and uncomfortable. @United #awful
+US Airways,negative,"Horrible boarding process, chaotic and stressful. @USAirways #awful"
+Virgin America,positive,Thank you for the amazing service. @VirginAmerica #amazing
+United,negative,Never flying with you again. Absolutely terrible. @United #awful
+Virgin America,positive,Smooth landing and great pilot. @VirginAmerica #amazing
+Delta,neutral,"Food was okay, pretty standard for airline food. @Delta"
+Virgin America,negative,Seats are too small and uncomfortable. @VirginAmerica #awful
+United,negative,Lost my luggage again... extremely disappointed. @United #awful
+Southwest,neutral,Average service. Could be better. @Southwest
+US Airways,negative,Why is my flight always delayed without any notice? @USAirways #awful
+Virgin America,positive,Super fast and efficient boarding process. Loved it! @VirginAmerica #amazing
+Southwest,neutral,Boarding was standard. @Southwest
+American,neutral,"Food was okay, pretty standard for airline food. @American"
+Southwest,negative,Never flying with you again. Absolutely terrible. @Southwest #awful
+American,negative,Terrible customer service on the phone. @American #awful
+United,neutral,Boarding was standard. @United
+Southwest,neutral,Got from A to B safely. @Southwest
+American,positive,Smooth landing and great pilot. @American #amazing
+American,neutral,"Food was okay, pretty standard for airline food. @American"
+Virgin America,negative,Never flying with you again. Absolutely terrible. @VirginAmerica #awful
+Delta,positive,Very comfortable seats and plenty of legroom. @Delta #amazing
+Delta,neutral,"Food was okay, pretty standard for airline food. @Delta"
+Virgin America,neutral,"Flight was okay, nothing special. @VirginAmerica"
+United,neutral,Average service. Could be better. @United
+Southwest,neutral,Average service. Could be better. @Southwest
+Delta,positive,Smooth landing and great pilot. @Delta #amazing
+Delta,neutral,"Food was okay, pretty standard for airline food. @Delta"
+Southwest,positive,I had a wonderful flight experience today! The crew was so polite. @Southwest #amazing
+Southwest,positive,Smooth landing and great pilot. @Southwest #amazing
+US Airways,neutral,"Flight was okay, nothing special. @USAirways"
+Virgin America,negative,"Food was awful, could not eat anything. @VirginAmerica #awful"
+Virgin America,positive,Thank you for the amazing service. @VirginAmerica #amazing
+Virgin America,positive,Very comfortable seats and plenty of legroom. @VirginAmerica #amazing
+Virgin America,positive,Great customer service at the gate. @VirginAmerica #amazing
+Virgin America,positive,Smooth landing and great pilot. @VirginAmerica #amazing
+Virgin America,neutral,Average service. Could be better. @VirginAmerica
+US Airways,positive,Thank you for the amazing service. @USAirways #amazing
+Southwest,neutral,Got from A to B safely. @Southwest
+American,positive,Very comfortable seats and plenty of legroom. @American #amazing
+United,negative,Never flying with you again. Absolutely terrible. @United #awful
+United,positive,Super fast and efficient boarding process. Loved it! @United #amazing
+American,neutral,Got from A to B safely. @American
+Southwest,neutral,"Flight was okay, nothing special. @Southwest"
+Delta,negative,Seats are too small and uncomfortable. @Delta #awful
+Virgin America,negative,Worst experience of my life. Flight delayed by 4 hours. @VirginAmerica #awful
+Virgin America,negative,"Horrible boarding process, chaotic and stressful. @VirginAmerica #awful"
+United,neutral,"Food was okay, pretty standard for airline food. @United"
+Southwest,neutral,Arrived on time. Standard experience. @Southwest
+United,positive,I had a wonderful flight experience today! The crew was so polite. @United #amazing
+Virgin America,neutral,Boarding was standard. @VirginAmerica
+Virgin America,negative,The staff was incredibly rude and unhelpful. @VirginAmerica #awful
+United,negative,Lost my luggage again... extremely disappointed. @United #awful
+Southwest,negative,Never flying with you again. Absolutely terrible. @Southwest #awful
+United,negative,Seats are too small and uncomfortable. @United #awful
+Delta,positive,I had a wonderful flight experience today! The crew was so polite. @Delta #amazing
+United,negative,Seats are too small and uncomfortable. @United #awful
+United,neutral,"Food was okay, pretty standard for airline food. @United"
+United,negative,"Food was awful, could not eat anything. @United #awful"
+US Airways,negative,Why is my flight always delayed without any notice? @USAirways #awful
+Southwest,neutral,"Food was okay, pretty standard for airline food. @Southwest"
+Southwest,negative,Lost my luggage again... extremely disappointed. @Southwest #awful
+United,positive,Best flight ever. Will fly with you again. @United #amazing
+American,neutral,"Flight was okay, nothing special. @American"
+Virgin America,negative,The staff was incredibly rude and unhelpful. @VirginAmerica #awful
+US Airways,positive,Smooth landing and great pilot. @USAirways #amazing
+American,positive,Love the in-flight entertainment. @American #amazing
+Delta,positive,Love the in-flight entertainment. @Delta #amazing
+American,negative,Worst experience of my life. Flight delayed by 4 hours. @American #awful
+Delta,neutral,Boarding was standard. @Delta
+Delta,positive,The food was surprisingly good. @Delta #amazing
+Delta,negative,The staff was incredibly rude and unhelpful. @Delta #awful
+Virgin America,negative,Worst experience of my life. Flight delayed by 4 hours. @VirginAmerica #awful
+United,negative,"Horrible boarding process, chaotic and stressful. @United #awful"
+American,positive,I had a wonderful flight experience today! The crew was so polite. @American #amazing
+US Airways,positive,The food was surprisingly good. @USAirways #amazing
+Virgin America,neutral,Got from A to B safely. @VirginAmerica
+Delta,neutral,"Food was okay, pretty standard for airline food. @Delta"
+American,positive,Super fast and efficient boarding process. Loved it! @American #amazing
+American,negative,"Food was awful, could not eat anything. @American #awful"
+American,negative,Worst experience of my life. Flight delayed by 4 hours. @American #awful
+American,neutral,"Food was okay, pretty standard for airline food. @American"
+Virgin America,negative,Why is my flight always delayed without any notice? @VirginAmerica #awful
+American,positive,Very comfortable seats and plenty of legroom. @American #amazing
+Delta,positive,I had a wonderful flight experience today! The crew was so polite. @Delta #amazing
+US Airways,neutral,"Food was okay, pretty standard for airline food. @USAirways"
+United,neutral,Average service. Could be better. @United
+American,positive,Thank you for the amazing service. @American #amazing
+Virgin America,neutral,"Food was okay, pretty standard for airline food. @VirginAmerica"
+Southwest,positive,Great customer service at the gate. @Southwest #amazing
+American,negative,"Food was awful, could not eat anything. @American #awful"
+Delta,negative,Terrible customer service on the phone. @Delta #awful
+US Airways,positive,Great customer service at the gate. @USAirways #amazing
+Delta,negative,The staff was incredibly rude and unhelpful. @Delta #awful
+United,neutral,Boarding was standard. @United
+Southwest,negative,Lost my luggage again... extremely disappointed. @Southwest #awful
+American,neutral,Average service. Could be better. @American
+Southwest,positive,Smooth landing and great pilot. @Southwest #amazing
+Delta,neutral,Arrived on time. Standard experience. @Delta
+United,neutral,"Food was okay, pretty standard for airline food. @United"
+United,negative,Why is my flight always delayed without any notice? @United #awful
+US Airways,neutral,Got from A to B safely. @USAirways
+United,positive,The food was surprisingly good. @United #amazing
+Virgin America,negative,"Horrible boarding process, chaotic and stressful. @VirginAmerica #awful"
+Virgin America,positive,Love the in-flight entertainment. @VirginAmerica #amazing
+US Airways,neutral,Boarding was standard. @USAirways
+American,negative,Lost my luggage again... extremely disappointed. @American #awful
+Virgin America,positive,Best flight ever. Will fly with you again. @VirginAmerica #amazing
+US Airways,positive,Super fast and efficient boarding process. Loved it! @USAirways #amazing
+US Airways,neutral,Got from A to B safely. @USAirways
+American,positive,Super fast and efficient boarding process. Loved it! @American #amazing
+Southwest,negative,"Food was awful, could not eat anything. @Southwest #awful"
+US Airways,neutral,"Food was okay, pretty standard for airline food. @USAirways"
+United,neutral,"Flight was okay, nothing special. @United"
+Virgin America,negative,Lost my luggage again... extremely disappointed. @VirginAmerica #awful
+United,positive,Love the in-flight entertainment. @United #amazing
+Southwest,negative,"Food was awful, could not eat anything. @Southwest #awful"
+American,negative,The staff was incredibly rude and unhelpful. @American #awful
+United,neutral,Arrived on time. Standard experience. @United
+Delta,neutral,Average service. Could be better. @Delta
+American,negative,The staff was incredibly rude and unhelpful. @American #awful
+American,positive,Love the in-flight entertainment. @American #amazing
+American,negative,"Horrible boarding process, chaotic and stressful. @American #awful"
+Delta,negative,Lost my luggage again... extremely disappointed. @Delta #awful
+US Airways,negative,Terrible customer service on the phone. @USAirways #awful
+US Airways,positive,Love the in-flight entertainment. @USAirways #amazing
+American,negative,"Horrible boarding process, chaotic and stressful. @American #awful"
+US Airways,negative,Worst experience of my life. Flight delayed by 4 hours. @USAirways #awful
+Virgin America,neutral,Got from A to B safely. @VirginAmerica
+Southwest,positive,Great customer service at the gate. @Southwest #amazing
+US Airways,negative,Worst experience of my life. Flight delayed by 4 hours. @USAirways #awful
+Delta,positive,Great customer service at the gate. @Delta #amazing
+Southwest,negative,"Food was awful, could not eat anything. @Southwest #awful"
+Virgin America,neutral,Got from A to B safely. @VirginAmerica
+Virgin America,negative,Terrible customer service on the phone. @VirginAmerica #awful
+Southwest,positive,Very comfortable seats and plenty of legroom. @Southwest #amazing
+Virgin America,neutral,Average service. Could be better. @VirginAmerica
+Virgin America,neutral,Average service. Could be better. @VirginAmerica
+Delta,positive,I had a wonderful flight experience today! The crew was so polite. @Delta #amazing
+United,positive,Smooth landing and great pilot. @United #amazing
+American,negative,"Horrible boarding process, chaotic and stressful. @American #awful"
+Delta,neutral,"Food was okay, pretty standard for airline food. @Delta"
+US Airways,neutral,Just another flight. @USAirways
+Southwest,positive,I had a wonderful flight experience today! The crew was so polite. @Southwest #amazing
+Southwest,neutral,"Flight was okay, nothing special. @Southwest"
+United,neutral,Arrived on time. Standard experience. @United
+Southwest,neutral,Average service. Could be better. @Southwest
+US Airways,neutral,"Flight was okay, nothing special. @USAirways"
+American,neutral,Just another flight. @American
+American,neutral,Boarding was standard. @American
+Virgin America,neutral,Boarding was standard. @VirginAmerica
+US Airways,positive,Smooth landing and great pilot. @USAirways #amazing
+Virgin America,positive,I had a wonderful flight experience today! The crew was so polite. @VirginAmerica #amazing
+Delta,negative,Seats are too small and uncomfortable. @Delta #awful
+Delta,neutral,Just another flight. @Delta
+Delta,neutral,Arrived on time. Standard experience. @Delta
+Delta,positive,The food was surprisingly good. @Delta #amazing
+United,neutral,Average service. Could be better. @United
+Virgin America,positive,Best flight ever. Will fly with you again. @VirginAmerica #amazing
+Virgin America,neutral,"Food was okay, pretty standard for airline food. @VirginAmerica"
+Virgin America,negative,Terrible customer service on the phone. @VirginAmerica #awful
+Virgin America,negative,Terrible customer service on the phone. @VirginAmerica #awful
+American,neutral,"Food was okay, pretty standard for airline food. @American"
+US Airways,negative,Seats are too small and uncomfortable. @USAirways #awful
+American,neutral,Got from A to B safely. @American
+US Airways,positive,Great customer service at the gate. @USAirways #amazing
+American,positive,Smooth landing and great pilot. @American #amazing
+American,negative,"Horrible boarding process, chaotic and stressful. @American #awful"
+US Airways,neutral,Arrived on time. Standard experience. @USAirways
+United,neutral,Average service. Could be better. @United
+United,negative,The staff was incredibly rude and unhelpful. @United #awful
+United,positive,Best flight ever. Will fly with you again. @United #amazing
+United,neutral,"Food was okay, pretty standard for airline food. @United"
+US Airways,negative,Seats are too small and uncomfortable. @USAirways #awful
+American,positive,Super fast and efficient boarding process. Loved it! @American #amazing
+Virgin America,positive,I had a wonderful flight experience today! The crew was so polite. @VirginAmerica #amazing
+Southwest,neutral,Average service. Could be better. @Southwest
+United,negative,"Horrible boarding process, chaotic and stressful. @United #awful"
+Virgin America,neutral,Got from A to B safely. @VirginAmerica
+Delta,neutral,Just another flight. @Delta
+United,negative,Why is my flight always delayed without any notice? @United #awful
+Delta,negative,"Horrible boarding process, chaotic and stressful. @Delta #awful"
+American,neutral,"Food was okay, pretty standard for airline food. @American"
+American,positive,Best flight ever. Will fly with you again. @American #amazing
+American,positive,Thank you for the amazing service. @American #amazing
+Southwest,negative,Seats are too small and uncomfortable. @Southwest #awful
+Southwest,neutral,Got from A to B safely. @Southwest
+Delta,positive,I had a wonderful flight experience today! The crew was so polite. @Delta #amazing
+Southwest,positive,Great customer service at the gate. @Southwest #amazing
+American,neutral,Got from A to B safely. @American
+Delta,negative,Seats are too small and uncomfortable. @Delta #awful
+American,negative,"Horrible boarding process, chaotic and stressful. @American #awful"
+Southwest,positive,Super fast and efficient boarding process. Loved it! @Southwest #amazing
+Virgin America,positive,Super fast and efficient boarding process. Loved it! @VirginAmerica #amazing
+Delta,negative,Never flying with you again. Absolutely terrible. @Delta #awful
+Southwest,positive,Great customer service at the gate. @Southwest #amazing
+Delta,neutral,Arrived on time. Standard experience. @Delta
+Virgin America,positive,Thank you for the amazing service. @VirginAmerica #amazing
+Delta,neutral,Got from A to B safely. @Delta
+United,neutral,Got from A to B safely. @United
+American,negative,The staff was incredibly rude and unhelpful. @American #awful
+US Airways,negative,Seats are too small and uncomfortable. @USAirways #awful
+Virgin America,negative,The staff was incredibly rude and unhelpful. @VirginAmerica #awful
+American,negative,Lost my luggage again... extremely disappointed. @American #awful
+US Airways,neutral,Just another flight. @USAirways
+Virgin America,neutral,Just another flight. @VirginAmerica
+American,positive,Thank you for the amazing service. @American #amazing
+United,negative,Why is my flight always delayed without any notice? @United #awful
+Southwest,neutral,Boarding was standard. @Southwest
+Delta,neutral,Arrived on time. Standard experience. @Delta
+United,negative,The staff was incredibly rude and unhelpful. @United #awful
+Virgin America,negative,"Food was awful, could not eat anything. @VirginAmerica #awful"
+Southwest,negative,Never flying with you again. Absolutely terrible. @Southwest #awful
+American,negative,Why is my flight always delayed without any notice? @American #awful
+US Airways,negative,Seats are too small and uncomfortable. @USAirways #awful
+Virgin America,positive,Super fast and efficient boarding process. Loved it! @VirginAmerica #amazing
+Southwest,positive,Super fast and efficient boarding process. Loved it! @Southwest #amazing
+Delta,negative,Seats are too small and uncomfortable. @Delta #awful
+United,neutral,"Food was okay, pretty standard for airline food. @United"
+Virgin America,neutral,Average service. Could be better. @VirginAmerica
+United,positive,Thank you for the amazing service. @United #amazing
+Delta,neutral,"Flight was okay, nothing special. @Delta"
+American,negative,Never flying with you again. Absolutely terrible. @American #awful
+Delta,negative,The staff was incredibly rude and unhelpful. @Delta #awful
+Southwest,neutral,Got from A to B safely. @Southwest
+United,positive,Smooth landing and great pilot. @United #amazing
+Southwest,positive,Great customer service at the gate. @Southwest #amazing
+US Airways,negative,The staff was incredibly rude and unhelpful. @USAirways #awful
+US Airways,negative,Why is my flight always delayed without any notice? @USAirways #awful
+American,positive,Best flight ever. Will fly with you again. @American #amazing
+American,neutral,Boarding was standard. @American
+Southwest,positive,Smooth landing and great pilot. @Southwest #amazing
+Southwest,neutral,Average service. Could be better. @Southwest
+Southwest,positive,Best flight ever. Will fly with you again. @Southwest #amazing
+United,positive,Very comfortable seats and plenty of legroom. @United #amazing
+American,neutral,Got from A to B safely. @American
+US Airways,negative,Terrible customer service on the phone. @USAirways #awful
+Delta,negative,Seats are too small and uncomfortable. @Delta #awful
+Virgin America,positive,Thank you for the amazing service. @VirginAmerica #amazing
+Southwest,negative,The staff was incredibly rude and unhelpful. @Southwest #awful
+US Airways,neutral,"Flight was okay, nothing special. @USAirways"
+American,negative,Terrible customer service on the phone. @American #awful
+Virgin America,neutral,Just another flight. @VirginAmerica
+American,neutral,Boarding was standard. @American
+US Airways,positive,I had a wonderful flight experience today! The crew was so polite. @USAirways #amazing
+US Airways,negative,Seats are too small and uncomfortable. @USAirways #awful
+United,positive,Love the in-flight entertainment. @United #amazing
+United,neutral,"Food was okay, pretty standard for airline food. @United"
+American,negative,Terrible customer service on the phone. @American #awful
+Delta,neutral,Just another flight. @Delta
+Virgin America,positive,The food was surprisingly good. @VirginAmerica #amazing
+American,positive,Smooth landing and great pilot. @American #amazing
+Delta,neutral,Boarding was standard. @Delta
+United,negative,Never flying with you again. Absolutely terrible. @United #awful
+Southwest,positive,Love the in-flight entertainment. @Southwest #amazing
+US Airways,neutral,Got from A to B safely. @USAirways
+US Airways,neutral,Arrived on time. Standard experience. @USAirways
+American,neutral,"Food was okay, pretty standard for airline food. @American"
+United,negative,Worst experience of my life. Flight delayed by 4 hours. @United #awful
+Virgin America,neutral,Boarding was standard. @VirginAmerica
+Delta,negative,Seats are too small and uncomfortable. @Delta #awful
+United,positive,The food was surprisingly good. @United #amazing
+United,neutral,Arrived on time. Standard experience. @United
+Delta,positive,Best flight ever. Will fly with you again. @Delta #amazing
+Virgin America,positive,Super fast and efficient boarding process. Loved it! @VirginAmerica #amazing
+US Airways,neutral,Just another flight. @USAirways
+US Airways,neutral,Boarding was standard. @USAirways
+Southwest,negative,Lost my luggage again... extremely disappointed. @Southwest #awful
+American,neutral,Just another flight. @American
+US Airways,positive,Super fast and efficient boarding process. Loved it! @USAirways #amazing
+American,positive,Thank you for the amazing service. @American #amazing
+US Airways,negative,The staff was incredibly rude and unhelpful. @USAirways #awful
+Southwest,positive,Love the in-flight entertainment. @Southwest #amazing
+Delta,neutral,Just another flight. @Delta
+Delta,positive,The food was surprisingly good. @Delta #amazing
+Virgin America,neutral,"Food was okay, pretty standard for airline food. @VirginAmerica"
+American,negative,"Horrible boarding process, chaotic and stressful. @American #awful"
+Delta,negative,"Horrible boarding process, chaotic and stressful. @Delta #awful"
+US Airways,positive,Super fast and efficient boarding process. Loved it! @USAirways #amazing
+US Airways,positive,Thank you for the amazing service. @USAirways #amazing
+Virgin America,positive,The food was surprisingly good. @VirginAmerica #amazing
+Southwest,neutral,Average service. Could be better. @Southwest
+United,neutral,"Flight was okay, nothing special. @United"
+Southwest,neutral,Got from A to B safely. @Southwest
+United,negative,Terrible customer service on the phone. @United #awful
+US Airways,positive,Love the in-flight entertainment. @USAirways #amazing
+American,negative,The staff was incredibly rude and unhelpful. @American #awful
+Southwest,neutral,"Flight was okay, nothing special. @Southwest"
+Delta,neutral,Boarding was standard. @Delta
+Southwest,positive,Great customer service at the gate. @Southwest #amazing
+United,neutral,Got from A to B safely. @United
+Virgin America,neutral,Got from A to B safely. @VirginAmerica
+Delta,neutral,Boarding was standard. @Delta
+US Airways,neutral,Arrived on time. Standard experience. @USAirways
+US Airways,negative,Never flying with you again. Absolutely terrible. @USAirways #awful
+Delta,neutral,"Flight was okay, nothing special. @Delta"
+Southwest,positive,Smooth landing and great pilot. @Southwest #amazing
+US Airways,neutral,"Flight was okay, nothing special. @USAirways"
+Southwest,negative,"Horrible boarding process, chaotic and stressful. @Southwest #awful"
+American,positive,Super fast and efficient boarding process. Loved it! @American #amazing
+United,negative,Why is my flight always delayed without any notice? @United #awful
+Virgin America,neutral,Got from A to B safely. @VirginAmerica
+United,positive,Great customer service at the gate. @United #amazing
+Southwest,negative,Terrible customer service on the phone. @Southwest #awful
+United,neutral,Boarding was standard. @United
+Southwest,neutral,Boarding was standard. @Southwest
+Delta,positive,I had a wonderful flight experience today! The crew was so polite. @Delta #amazing
+United,positive,Very comfortable seats and plenty of legroom. @United #amazing
+Virgin America,positive,Smooth landing and great pilot. @VirginAmerica #amazing
+Delta,negative,Lost my luggage again... extremely disappointed. @Delta #awful
+United,neutral,"Food was okay, pretty standard for airline food. @United"
+US Airways,neutral,Boarding was standard. @USAirways
+Delta,neutral,"Food was okay, pretty standard for airline food. @Delta"
+US Airways,neutral,"Food was okay, pretty standard for airline food. @USAirways"
+Virgin America,positive,The food was surprisingly good. @VirginAmerica #amazing
+US Airways,neutral,Average service. Could be better. @USAirways
+United,negative,Worst experience of my life. Flight delayed by 4 hours. @United #awful
+Virgin America,negative,Never flying with you again. Absolutely terrible. @VirginAmerica #awful
+United,negative,Seats are too small and uncomfortable. @United #awful
+United,neutral,Average service. Could be better. @United
+American,negative,The staff was incredibly rude and unhelpful. @American #awful
+Delta,negative,Never flying with you again. Absolutely terrible. @Delta #awful
+Delta,positive,Thank you for the amazing service. @Delta #amazing
+Delta,positive,The food was surprisingly good. @Delta #amazing
+Delta,neutral,Arrived on time. Standard experience. @Delta
+American,positive,Thank you for the amazing service. @American #amazing
+American,neutral,"Flight was okay, nothing special. @American"
+United,positive,Love the in-flight entertainment. @United #amazing
+Virgin America,neutral,Boarding was standard. @VirginAmerica
+US Airways,positive,Best flight ever. Will fly with you again. @USAirways #amazing
+Southwest,positive,Great customer service at the gate. @Southwest #amazing
+Delta,negative,Seats are too small and uncomfortable. @Delta #awful
+Virgin America,negative,Lost my luggage again... extremely disappointed. @VirginAmerica #awful
+Virgin America,negative,Why is my flight always delayed without any notice? @VirginAmerica #awful
+American,neutral,Arrived on time. Standard experience. @American
+United,positive,Smooth landing and great pilot. @United #amazing
+Southwest,positive,Love the in-flight entertainment. @Southwest #amazing
+US Airways,positive,Very comfortable seats and plenty of legroom. @USAirways #amazing
+US Airways,neutral,Just another flight. @USAirways
+Southwest,positive,The food was surprisingly good. @Southwest #amazing
+American,negative,Lost my luggage again... extremely disappointed. @American #awful
+Virgin America,neutral,Just another flight. @VirginAmerica
+Southwest,neutral,Boarding was standard. @Southwest
+American,positive,Very comfortable seats and plenty of legroom. @American #amazing
+US Airways,negative,The staff was incredibly rude and unhelpful. @USAirways #awful
+Delta,neutral,"Flight was okay, nothing special. @Delta"
+American,positive,Love the in-flight entertainment. @American #amazing
+American,positive,Great customer service at the gate. @American #amazing
+Virgin America,neutral,Just another flight. @VirginAmerica
+US Airways,neutral,"Flight was okay, nothing special. @USAirways"
+US Airways,positive,I had a wonderful flight experience today! The crew was so polite. @USAirways #amazing
+Virgin America,positive,Super fast and efficient boarding process. Loved it! @VirginAmerica #amazing
+Virgin America,neutral,Average service. Could be better. @VirginAmerica
+Southwest,positive,Love the in-flight entertainment. @Southwest #amazing
+American,negative,Terrible customer service on the phone. @American #awful
+American,positive,Thank you for the amazing service. @American #amazing
+American,neutral,Got from A to B safely. @American
+Southwest,neutral,"Food was okay, pretty standard for airline food. @Southwest"
+United,neutral,Just another flight. @United
+US Airways,positive,Thank you for the amazing service. @USAirways #amazing
+American,positive,Great customer service at the gate. @American #amazing
+Virgin America,positive,Best flight ever. Will fly with you again. @VirginAmerica #amazing
+Southwest,neutral,"Food was okay, pretty standard for airline food. @Southwest"
+American,neutral,Arrived on time. Standard experience. @American
+Southwest,negative,Terrible customer service on the phone. @Southwest #awful
+American,neutral,Average service. Could be better. @American
+Delta,negative,The staff was incredibly rude and unhelpful. @Delta #awful
+Southwest,negative,Seats are too small and uncomfortable. @Southwest #awful
+Southwest,neutral,Boarding was standard. @Southwest
+US Airways,neutral,Arrived on time. Standard experience. @USAirways
+Southwest,negative,Lost my luggage again... extremely disappointed. @Southwest #awful
+American,neutral,Boarding was standard. @American
+US Airways,neutral,Arrived on time. Standard experience. @USAirways
+Southwest,neutral,Average service. Could be better. @Southwest
+Delta,positive,Super fast and efficient boarding process. Loved it! @Delta #amazing
+American,neutral,Just another flight. @American
+American,negative,"Food was awful, could not eat anything. @American #awful"
+Southwest,neutral,"Food was okay, pretty standard for airline food. @Southwest"
+American,positive,Thank you for the amazing service. @American #amazing
+US Airways,positive,Best flight ever. Will fly with you again. @USAirways #amazing
+US Airways,neutral,Arrived on time. Standard experience. @USAirways
+United,neutral,"Food was okay, pretty standard for airline food. @United"
+Delta,positive,The food was surprisingly good. @Delta #amazing
+US Airways,negative,Lost my luggage again... extremely disappointed. @USAirways #awful
+United,neutral,Boarding was standard. @United
+Delta,negative,Never flying with you again. Absolutely terrible. @Delta #awful
+US Airways,neutral,"Food was okay, pretty standard for airline food. @USAirways"
+Southwest,negative,Terrible customer service on the phone. @Southwest #awful
+Delta,neutral,"Food was okay, pretty standard for airline food. @Delta"
+Virgin America,negative,The staff was incredibly rude and unhelpful. @VirginAmerica #awful
+Virgin America,negative,Why is my flight always delayed without any notice? @VirginAmerica #awful
+United,neutral,"Flight was okay, nothing special. @United"
+Virgin America,positive,The food was surprisingly good. @VirginAmerica #amazing
+Virgin America,negative,Terrible customer service on the phone. @VirginAmerica #awful
+United,positive,I had a wonderful flight experience today! The crew was so polite. @United #amazing
+Virgin America,neutral,"Flight was okay, nothing special. @VirginAmerica"
+Southwest,neutral,"Flight was okay, nothing special. @Southwest"
+US Airways,negative,Worst experience of my life. Flight delayed by 4 hours. @USAirways #awful
+Virgin America,positive,Very comfortable seats and plenty of legroom. @VirginAmerica #amazing
+Southwest,negative,Seats are too small and uncomfortable. @Southwest #awful
+Southwest,positive,Smooth landing and great pilot. @Southwest #amazing
+American,positive,Thank you for the amazing service. @American #amazing
+Delta,neutral,Arrived on time. Standard experience. @Delta
+United,positive,I had a wonderful flight experience today! The crew was so polite. @United #amazing
+Delta,negative,Terrible customer service on the phone. @Delta #awful
+United,positive,The food was surprisingly good. @United #amazing
+American,neutral,Just another flight. @American
+United,negative,Seats are too small and uncomfortable. @United #awful
+US Airways,positive,Best flight ever. Will fly with you again. @USAirways #amazing
+Southwest,negative,Worst experience of my life. Flight delayed by 4 hours. @Southwest #awful
+Delta,negative,Lost my luggage again... extremely disappointed. @Delta #awful
+Southwest,neutral,"Flight was okay, nothing special. @Southwest"
+Southwest,negative,Seats are too small and uncomfortable. @Southwest #awful
+Delta,negative,Terrible customer service on the phone. @Delta #awful
+United,positive,Love the in-flight entertainment. @United #amazing
+Southwest,negative,"Food was awful, could not eat anything. @Southwest #awful"
+Delta,negative,Never flying with you again. Absolutely terrible. @Delta #awful
+Virgin America,negative,Why is my flight always delayed without any notice? @VirginAmerica #awful
+Southwest,neutral,Got from A to B safely. @Southwest
+Virgin America,positive,Thank you for the amazing service. @VirginAmerica #amazing
+Delta,negative,Lost my luggage again... extremely disappointed. @Delta #awful
+Virgin America,neutral,Arrived on time. Standard experience. @VirginAmerica
+Southwest,neutral,Arrived on time. Standard experience. @Southwest
+American,neutral,"Food was okay, pretty standard for airline food. @American"
+Virgin America,neutral,"Flight was okay, nothing special. @VirginAmerica"
+Southwest,positive,Very comfortable seats and plenty of legroom. @Southwest #amazing
+Southwest,positive,Thank you for the amazing service. @Southwest #amazing
+Southwest,positive,Best flight ever. Will fly with you again. @Southwest #amazing
+Southwest,positive,Love the in-flight entertainment. @Southwest #amazing
+Delta,neutral,Arrived on time. Standard experience. @Delta
+Southwest,positive,The food was surprisingly good. @Southwest #amazing
+United,negative,Worst experience of my life. Flight delayed by 4 hours. @United #awful
+US Airways,neutral,Just another flight. @USAirways
+American,negative,Worst experience of my life. Flight delayed by 4 hours. @American #awful
+American,positive,Love the in-flight entertainment. @American #amazing
+US Airways,negative,The staff was incredibly rude and unhelpful. @USAirways #awful
+American,negative,Worst experience of my life. Flight delayed by 4 hours. @American #awful
+US Airways,positive,The food was surprisingly good. @USAirways #amazing
+Virgin America,positive,Thank you for the amazing service. @VirginAmerica #amazing
+American,negative,Never flying with you again. Absolutely terrible. @American #awful
+Delta,negative,"Food was awful, could not eat anything. @Delta #awful"
+American,neutral,Got from A to B safely. @American
+United,negative,Terrible customer service on the phone. @United #awful
+American,neutral,"Food was okay, pretty standard for airline food. @American"
+United,neutral,"Flight was okay, nothing special. @United"
+Delta,neutral,Average service. Could be better. @Delta
+Virgin America,positive,Best flight ever. Will fly with you again. @VirginAmerica #amazing
+US Airways,neutral,Boarding was standard. @USAirways
+United,positive,I had a wonderful flight experience today! The crew was so polite. @United #amazing
+Delta,neutral,"Flight was okay, nothing special. @Delta"
+American,negative,"Horrible boarding process, chaotic and stressful. @American #awful"
+Delta,negative,Worst experience of my life. Flight delayed by 4 hours. @Delta #awful
+American,neutral,Boarding was standard. @American
+Delta,neutral,Just another flight. @Delta
+Southwest,neutral,Arrived on time. Standard experience. @Southwest
+American,negative,The staff was incredibly rude and unhelpful. @American #awful
+American,neutral,Arrived on time. Standard experience. @American
+Virgin America,neutral,"Flight was okay, nothing special. @VirginAmerica"
+Virgin America,positive,Love the in-flight entertainment. @VirginAmerica #amazing
+US Airways,positive,Great customer service at the gate. @USAirways #amazing
+Virgin America,negative,"Food was awful, could not eat anything. @VirginAmerica #awful"
+United,negative,Seats are too small and uncomfortable. @United #awful
+Delta,negative,"Food was awful, could not eat anything. @Delta #awful"
+American,negative,"Food was awful, could not eat anything. @American #awful"
+US Airways,negative,The staff was incredibly rude and unhelpful. @USAirways #awful
+Delta,positive,Very comfortable seats and plenty of legroom. @Delta #amazing
+Virgin America,neutral,Got from A to B safely. @VirginAmerica
+Delta,positive,Super fast and efficient boarding process. Loved it! @Delta #amazing
+Delta,negative,Why is my flight always delayed without any notice? @Delta #awful
+US Airways,neutral,Just another flight. @USAirways
+United,negative,"Horrible boarding process, chaotic and stressful. @United #awful"
+Delta,positive,Smooth landing and great pilot. @Delta #amazing
+Virgin America,negative,Never flying with you again. Absolutely terrible. @VirginAmerica #awful
+Delta,positive,I had a wonderful flight experience today! The crew was so polite. @Delta #amazing
+US Airways,positive,The food was surprisingly good. @USAirways #amazing
+Southwest,neutral,Average service. Could be better. @Southwest
+American,positive,Smooth landing and great pilot. @American #amazing
+Southwest,neutral,Arrived on time. Standard experience. @Southwest
+United,neutral,"Flight was okay, nothing special. @United"
+Virgin America,negative,Never flying with you again. Absolutely terrible. @VirginAmerica #awful
+US Airways,neutral,"Flight was okay, nothing special. @USAirways"
+United,positive,Smooth landing and great pilot. @United #amazing
+US Airways,negative,The staff was incredibly rude and unhelpful. @USAirways #awful
+Delta,positive,Love the in-flight entertainment. @Delta #amazing
+Virgin America,neutral,Boarding was standard. @VirginAmerica
+Delta,neutral,Just another flight. @Delta
+Southwest,negative,Lost my luggage again... extremely disappointed. @Southwest #awful
+Southwest,neutral,"Flight was okay, nothing special. @Southwest"
+United,positive,Best flight ever. Will fly with you again. @United #amazing
+Southwest,positive,Super fast and efficient boarding process. Loved it! @Southwest #amazing
+Virgin America,neutral,Just another flight. @VirginAmerica
+US Airways,neutral,"Food was okay, pretty standard for airline food. @USAirways"
+Southwest,neutral,"Flight was okay, nothing special. @Southwest"
+Virgin America,neutral,Just another flight. @VirginAmerica
+Delta,positive,Thank you for the amazing service. @Delta #amazing
+US Airways,negative,Why is my flight always delayed without any notice? @USAirways #awful
+United,negative,Terrible customer service on the phone. @United #awful
+Delta,negative,Lost my luggage again... extremely disappointed. @Delta #awful
+Southwest,neutral,Just another flight. @Southwest
+Delta,neutral,Average service. Could be better. @Delta
+Southwest,neutral,Average service. Could be better. @Southwest
+Southwest,neutral,"Flight was okay, nothing special. @Southwest"
+Virgin America,neutral,"Flight was okay, nothing special. @VirginAmerica"
+US Airways,neutral,Just another flight. @USAirways
+Virgin America,positive,I had a wonderful flight experience today! The crew was so polite. @VirginAmerica #amazing
+Delta,neutral,Arrived on time. Standard experience. @Delta
+Southwest,neutral,Boarding was standard. @Southwest
+Virgin America,neutral,Got from A to B safely. @VirginAmerica
+Virgin America,negative,Why is my flight always delayed without any notice? @VirginAmerica #awful
+Delta,positive,Very comfortable seats and plenty of legroom. @Delta #amazing
+US Airways,positive,Great customer service at the gate. @USAirways #amazing
+US Airways,negative,Worst experience of my life. Flight delayed by 4 hours. @USAirways #awful
+US Airways,neutral,"Food was okay, pretty standard for airline food. @USAirways"
+US Airways,negative,Terrible customer service on the phone. @USAirways #awful
+Southwest,neutral,Just another flight. @Southwest
+United,negative,Why is my flight always delayed without any notice? @United #awful
+US Airways,negative,"Food was awful, could not eat anything. @USAirways #awful"
+Virgin America,negative,Why is my flight always delayed without any notice? @VirginAmerica #awful
+Delta,neutral,"Food was okay, pretty standard for airline food. @Delta"
+Southwest,positive,Very comfortable seats and plenty of legroom. @Southwest #amazing
+Delta,neutral,Got from A to B safely. @Delta
+United,positive,Thank you for the amazing service. @United #amazing
+American,positive,Great customer service at the gate. @American #amazing
+Virgin America,neutral,Arrived on time. Standard experience. @VirginAmerica
+Virgin America,negative,Seats are too small and uncomfortable. @VirginAmerica #awful
+Southwest,negative,"Horrible boarding process, chaotic and stressful. @Southwest #awful"
+American,neutral,Arrived on time. Standard experience. @American
+American,negative,Lost my luggage again... extremely disappointed. @American #awful
+United,positive,Great customer service at the gate. @United #amazing
+Southwest,neutral,Just another flight. @Southwest
+Virgin America,neutral,Boarding was standard. @VirginAmerica
+Virgin America,positive,Great customer service at the gate. @VirginAmerica #amazing
+Virgin America,positive,I had a wonderful flight experience today! The crew was so polite. @VirginAmerica #amazing
+Southwest,positive,The food was surprisingly good. @Southwest #amazing
+Virgin America,negative,Never flying with you again. Absolutely terrible. @VirginAmerica #awful
+Delta,positive,Best flight ever. Will fly with you again. @Delta #amazing
+US Airways,positive,Smooth landing and great pilot. @USAirways #amazing
+United,neutral,Arrived on time. Standard experience. @United
+Southwest,positive,Thank you for the amazing service. @Southwest #amazing
+American,negative,Lost my luggage again... extremely disappointed. @American #awful
+United,neutral,Average service. Could be better. @United
+US Airways,negative,"Horrible boarding process, chaotic and stressful. @USAirways #awful"
+Delta,positive,Smooth landing and great pilot. @Delta #amazing
+Virgin America,neutral,Boarding was standard. @VirginAmerica
+Virgin America,neutral,"Food was okay, pretty standard for airline food. @VirginAmerica"
+American,negative,"Food was awful, could not eat anything. @American #awful"
+US Airways,neutral,Boarding was standard. @USAirways
+United,neutral,"Flight was okay, nothing special. @United"
+Virgin America,neutral,Got from A to B safely. @VirginAmerica
+Delta,negative,Seats are too small and uncomfortable. @Delta #awful
+Delta,positive,Very comfortable seats and plenty of legroom. @Delta #amazing
+American,neutral,"Flight was okay, nothing special. @American"
+United,neutral,Arrived on time. Standard experience. @United
+Delta,negative,Terrible customer service on the phone. @Delta #awful
+Delta,neutral,"Flight was okay, nothing special. @Delta"
+Virgin America,neutral,Boarding was standard. @VirginAmerica
+US Airways,positive,Thank you for the amazing service. @USAirways #amazing
+Southwest,positive,Thank you for the amazing service. @Southwest #amazing
+American,neutral,"Flight was okay, nothing special. @American"
+United,negative,Worst experience of my life. Flight delayed by 4 hours. @United #awful
+US Airways,positive,The food was surprisingly good. @USAirways #amazing
+Southwest,neutral,"Food was okay, pretty standard for airline food. @Southwest"
+Virgin America,negative,"Horrible boarding process, chaotic and stressful. @VirginAmerica #awful"
+United,negative,Why is my flight always delayed without any notice? @United #awful
+Delta,positive,Love the in-flight entertainment. @Delta #amazing
+Delta,negative,"Food was awful, could not eat anything. @Delta #awful"
+American,positive,Smooth landing and great pilot. @American #amazing
+American,positive,Super fast and efficient boarding process. Loved it! @American #amazing
+Delta,neutral,Just another flight. @Delta
+Southwest,positive,Very comfortable seats and plenty of legroom. @Southwest #amazing
+US Airways,neutral,Arrived on time. Standard experience. @USAirways
+Delta,neutral,"Flight was okay, nothing special. @Delta"
+Virgin America,negative,Terrible customer service on the phone. @VirginAmerica #awful
+Delta,negative,Lost my luggage again... extremely disappointed. @Delta #awful
+Virgin America,negative,The staff was incredibly rude and unhelpful. @VirginAmerica #awful
+American,positive,Super fast and efficient boarding process. Loved it! @American #amazing
+Delta,neutral,"Food was okay, pretty standard for airline food. @Delta"
+American,positive,I had a wonderful flight experience today! The crew was so polite. @American #amazing
+United,negative,"Horrible boarding process, chaotic and stressful. @United #awful"
+US Airways,neutral,Got from A to B safely. @USAirways
+American,negative,Seats are too small and uncomfortable. @American #awful
+Virgin America,positive,I had a wonderful flight experience today! The crew was so polite. @VirginAmerica #amazing
+Southwest,neutral,"Flight was okay, nothing special. @Southwest"
+United,negative,Never flying with you again. Absolutely terrible. @United #awful
+United,positive,Great customer service at the gate. @United #amazing
+US Airways,negative,Worst experience of my life. Flight delayed by 4 hours. @USAirways #awful
+Southwest,positive,I had a wonderful flight experience today! The crew was so polite. @Southwest #amazing
+United,positive,Thank you for the amazing service. @United #amazing
+Southwest,positive,I had a wonderful flight experience today! The crew was so polite. @Southwest #amazing
+United,positive,Very comfortable seats and plenty of legroom. @United #amazing
+American,positive,Super fast and efficient boarding process. Loved it! @American #amazing
+Southwest,neutral,Boarding was standard. @Southwest
+Southwest,negative,The staff was incredibly rude and unhelpful. @Southwest #awful
+Virgin America,negative,Never flying with you again. Absolutely terrible. @VirginAmerica #awful
+Delta,negative,The staff was incredibly rude and unhelpful. @Delta #awful
+Delta,positive,Very comfortable seats and plenty of legroom. @Delta #amazing
+Southwest,positive,Smooth landing and great pilot. @Southwest #amazing
+Virgin America,positive,I had a wonderful flight experience today! The crew was so polite. @VirginAmerica #amazing
+Virgin America,neutral,Just another flight. @VirginAmerica
+Delta,negative,Seats are too small and uncomfortable. @Delta #awful
+United,neutral,Average service. Could be better. @United
+Delta,negative,"Food was awful, could not eat anything. @Delta #awful"
+Southwest,negative,"Horrible boarding process, chaotic and stressful. @Southwest #awful"
+Southwest,positive,I had a wonderful flight experience today! The crew was so polite. @Southwest #amazing
+Southwest,negative,Never flying with you again. Absolutely terrible. @Southwest #awful
+United,positive,Very comfortable seats and plenty of legroom. @United #amazing
+American,neutral,Got from A to B safely. @American
+Southwest,negative,Terrible customer service on the phone. @Southwest #awful
+American,negative,"Horrible boarding process, chaotic and stressful. @American #awful"
+United,negative,"Food was awful, could not eat anything. @United #awful"
+American,negative,The staff was incredibly rude and unhelpful. @American #awful
+US Airways,neutral,"Flight was okay, nothing special. @USAirways"
+Virgin America,positive,Super fast and efficient boarding process. Loved it! @VirginAmerica #amazing
+Southwest,positive,Super fast and efficient boarding process. Loved it! @Southwest #amazing
+Delta,neutral,Boarding was standard. @Delta
+Delta,neutral,Average service. Could be better. @Delta
+Southwest,neutral,"Flight was okay, nothing special. @Southwest"
+US Airways,positive,Very comfortable seats and plenty of legroom. @USAirways #amazing
+American,positive,Best flight ever. Will fly with you again. @American #amazing
+United,neutral,Arrived on time. Standard experience. @United
+Southwest,positive,I had a wonderful flight experience today! The crew was so polite. @Southwest #amazing
+Virgin America,neutral,"Flight was okay, nothing special. @VirginAmerica"
+American,negative,Worst experience of my life. Flight delayed by 4 hours. @American #awful
+Southwest,positive,Thank you for the amazing service. @Southwest #amazing
+US Airways,positive,Thank you for the amazing service. @USAirways #amazing
+Delta,negative,The staff was incredibly rude and unhelpful. @Delta #awful
+Delta,positive,Love the in-flight entertainment. @Delta #amazing
+US Airways,neutral,Got from A to B safely. @USAirways
+United,neutral,Average service. Could be better. @United
+United,positive,Very comfortable seats and plenty of legroom. @United #amazing
+United,neutral,Arrived on time. Standard experience. @United
+Southwest,neutral,Arrived on time. Standard experience. @Southwest
+US Airways,neutral,Got from A to B safely. @USAirways
+Virgin America,neutral,Got from A to B safely. @VirginAmerica
+American,neutral,Just another flight. @American
+US Airways,positive,Love the in-flight entertainment. @USAirways #amazing
+American,positive,Best flight ever. Will fly with you again. @American #amazing
+American,neutral,Just another flight. @American
+Virgin America,neutral,Arrived on time. Standard experience. @VirginAmerica
+Virgin America,neutral,"Food was okay, pretty standard for airline food. @VirginAmerica"
+Southwest,negative,Terrible customer service on the phone. @Southwest #awful
+Delta,positive,I had a wonderful flight experience today! The crew was so polite. @Delta #amazing
+Virgin America,negative,"Horrible boarding process, chaotic and stressful. @VirginAmerica #awful"
+Southwest,positive,I had a wonderful flight experience today! The crew was so polite. @Southwest #amazing
+American,positive,Smooth landing and great pilot. @American #amazing
+US Airways,negative,Lost my luggage again... extremely disappointed. @USAirways #awful
+US Airways,negative,Why is my flight always delayed without any notice? @USAirways #awful
+Virgin America,positive,Love the in-flight entertainment. @VirginAmerica #amazing
+Southwest,neutral,Got from A to B safely. @Southwest
+US Airways,neutral,Just another flight. @USAirways
+Virgin America,positive,Love the in-flight entertainment. @VirginAmerica #amazing
+US Airways,positive,I had a wonderful flight experience today! The crew was so polite. @USAirways #amazing
+American,neutral,"Flight was okay, nothing special. @American"
+Virgin America,negative,Never flying with you again. Absolutely terrible. @VirginAmerica #awful
+US Airways,neutral,Just another flight. @USAirways
+Southwest,positive,Smooth landing and great pilot. @Southwest #amazing
+American,positive,I had a wonderful flight experience today! The crew was so polite. @American #amazing
+Virgin America,negative,"Horrible boarding process, chaotic and stressful. @VirginAmerica #awful"
+US Airways,neutral,"Food was okay, pretty standard for airline food. @USAirways"
+Virgin America,neutral,"Flight was okay, nothing special. @VirginAmerica"
+Virgin America,negative,Never flying with you again. Absolutely terrible. @VirginAmerica #awful
+US Airways,negative,Worst experience of my life. Flight delayed by 4 hours. @USAirways #awful
+United,neutral,Average service. Could be better. @United
+US Airways,negative,"Food was awful, could not eat anything. @USAirways #awful"
+Southwest,positive,Great customer service at the gate. @Southwest #amazing
+US Airways,neutral,Average service. Could be better. @USAirways
+United,positive,Thank you for the amazing service. @United #amazing
+American,positive,Thank you for the amazing service. @American #amazing
+US Airways,positive,The food was surprisingly good. @USAirways #amazing
+Southwest,negative,"Horrible boarding process, chaotic and stressful. @Southwest #awful"
+United,negative,Worst experience of my life. Flight delayed by 4 hours. @United #awful
+United,positive,Very comfortable seats and plenty of legroom. @United #amazing
+American,negative,"Food was awful, could not eat anything. @American #awful"
+Delta,neutral,Just another flight. @Delta
+American,positive,Best flight ever. Will fly with you again. @American #amazing
+American,negative,"Horrible boarding process, chaotic and stressful. @American #awful"
+US Airways,positive,Love the in-flight entertainment. @USAirways #amazing
+US Airways,negative,The staff was incredibly rude and unhelpful. @USAirways #awful
+Delta,negative,"Food was awful, could not eat anything. @Delta #awful"
+Delta,neutral,"Flight was okay, nothing special. @Delta"
+Southwest,negative,Never flying with you again. Absolutely terrible. @Southwest #awful
+United,negative,Why is my flight always delayed without any notice? @United #awful
+Southwest,negative,Terrible customer service on the phone. @Southwest #awful
+Delta,neutral,Just another flight. @Delta
+Virgin America,positive,Very comfortable seats and plenty of legroom. @VirginAmerica #amazing
+US Airways,neutral,"Flight was okay, nothing special. @USAirways"
+US Airways,positive,Thank you for the amazing service. @USAirways #amazing
+Virgin America,neutral,Boarding was standard. @VirginAmerica
+US Airways,neutral,Boarding was standard. @USAirways
+United,negative,Terrible customer service on the phone. @United #awful
+United,neutral,"Flight was okay, nothing special. @United"
+Southwest,positive,The food was surprisingly good. @Southwest #amazing
+US Airways,negative,Lost my luggage again... extremely disappointed. @USAirways #awful
+Delta,neutral,Got from A to B safely. @Delta
+US Airways,neutral,Got from A to B safely. @USAirways
+US Airways,positive,I had a wonderful flight experience today! The crew was so polite. @USAirways #amazing
+Delta,neutral,Just another flight. @Delta
+US Airways,neutral,Boarding was standard. @USAirways
+Southwest,negative,Why is my flight always delayed without any notice? @Southwest #awful
+American,positive,Smooth landing and great pilot. @American #amazing
+American,neutral,Arrived on time. Standard experience. @American
+American,negative,Why is my flight always delayed without any notice? @American #awful
+United,positive,I had a wonderful flight experience today! The crew was so polite. @United #amazing
+Virgin America,neutral,Average service. Could be better. @VirginAmerica
+Delta,positive,Very comfortable seats and plenty of legroom. @Delta #amazing
+Southwest,neutral,"Flight was okay, nothing special. @Southwest"
+United,positive,I had a wonderful flight experience today! The crew was so polite. @United #amazing
+American,positive,Smooth landing and great pilot. @American #amazing
+US Airways,negative,Never flying with you again. Absolutely terrible. @USAirways #awful
+Southwest,neutral,Arrived on time. Standard experience. @Southwest
+United,positive,Super fast and efficient boarding process. Loved it! @United #amazing
+US Airways,positive,Thank you for the amazing service. @USAirways #amazing
+Virgin America,positive,Very comfortable seats and plenty of legroom. @VirginAmerica #amazing
+Southwest,negative,"Horrible boarding process, chaotic and stressful. @Southwest #awful"
+American,negative,Terrible customer service on the phone. @American #awful
+American,negative,Why is my flight always delayed without any notice? @American #awful
+American,negative,Terrible customer service on the phone. @American #awful
+Virgin America,neutral,Boarding was standard. @VirginAmerica
+American,negative,Never flying with you again. Absolutely terrible. @American #awful
+Southwest,neutral,Arrived on time. Standard experience. @Southwest
+American,negative,Never flying with you again. Absolutely terrible. @American #awful
+American,neutral,"Food was okay, pretty standard for airline food. @American"
+Delta,neutral,"Flight was okay, nothing special. @Delta"
+Southwest,positive,I had a wonderful flight experience today! The crew was so polite. @Southwest #amazing
+Southwest,neutral,Just another flight. @Southwest
+Delta,negative,Worst experience of my life. Flight delayed by 4 hours. @Delta #awful
+US Airways,neutral,"Flight was okay, nothing special. @USAirways"
+Delta,positive,Love the in-flight entertainment. @Delta #amazing
+US Airways,negative,Never flying with you again. Absolutely terrible. @USAirways #awful
+Virgin America,neutral,Boarding was standard. @VirginAmerica
+Virgin America,neutral,Average service. Could be better. @VirginAmerica
+US Airways,positive,Super fast and efficient boarding process. Loved it! @USAirways #amazing
+Delta,neutral,Got from A to B safely. @Delta
+Virgin America,negative,Terrible customer service on the phone. @VirginAmerica #awful
+United,neutral,Boarding was standard. @United
+American,positive,Love the in-flight entertainment. @American #amazing
+Southwest,neutral,Boarding was standard. @Southwest
+US Airways,negative,The staff was incredibly rude and unhelpful. @USAirways #awful
+United,negative,Never flying with you again. Absolutely terrible. @United #awful
+Southwest,negative,The staff was incredibly rude and unhelpful. @Southwest #awful
+US Airways,negative,Terrible customer service on the phone. @USAirways #awful
+US Airways,neutral,Average service. Could be better. @USAirways
+Southwest,positive,Great customer service at the gate. @Southwest #amazing
+US Airways,neutral,Average service. Could be better. @USAirways
+Delta,negative,The staff was incredibly rude and unhelpful. @Delta #awful
+Virgin America,negative,Lost my luggage again... extremely disappointed. @VirginAmerica #awful
+Delta,negative,"Food was awful, could not eat anything. @Delta #awful"
+Delta,positive,Great customer service at the gate. @Delta #amazing
+Virgin America,neutral,"Food was okay, pretty standard for airline food. @VirginAmerica"
+Southwest,neutral,Arrived on time. Standard experience. @Southwest
+Virgin America,positive,I had a wonderful flight experience today! The crew was so polite. @VirginAmerica #amazing
+Virgin America,negative,"Food was awful, could not eat anything. @VirginAmerica #awful"
+Delta,negative,Never flying with you again. Absolutely terrible. @Delta #awful
+US Airways,negative,Never flying with you again. Absolutely terrible. @USAirways #awful
+American,neutral,Got from A to B safely. @American
+Virgin America,negative,Terrible customer service on the phone. @VirginAmerica #awful
+Virgin America,negative,The staff was incredibly rude and unhelpful. @VirginAmerica #awful
+US Airways,neutral,"Food was okay, pretty standard for airline food. @USAirways"
+American,negative,Seats are too small and uncomfortable. @American #awful
+United,positive,Great customer service at the gate. @United #amazing
+American,neutral,"Food was okay, pretty standard for airline food. @American"
+Virgin America,negative,Terrible customer service on the phone. @VirginAmerica #awful
+Delta,positive,Smooth landing and great pilot. @Delta #amazing
+Southwest,negative,Lost my luggage again... extremely disappointed. @Southwest #awful
+Delta,neutral,Boarding was standard. @Delta
+Southwest,negative,Lost my luggage again... extremely disappointed. @Southwest #awful
+United,positive,Love the in-flight entertainment. @United #amazing
+Southwest,negative,Seats are too small and uncomfortable. @Southwest #awful
+Southwest,negative,Seats are too small and uncomfortable. @Southwest #awful
+US Airways,neutral,Arrived on time. Standard experience. @USAirways
+US Airways,positive,Very comfortable seats and plenty of legroom. @USAirways #amazing
+Virgin America,negative,Lost my luggage again... extremely disappointed. @VirginAmerica #awful
+Delta,negative,"Horrible boarding process, chaotic and stressful. @Delta #awful"
+Southwest,neutral,Boarding was standard. @Southwest
+Delta,negative,Never flying with you again. Absolutely terrible. @Delta #awful
+Virgin America,neutral,"Flight was okay, nothing special. @VirginAmerica"
+Delta,positive,Great customer service at the gate. @Delta #amazing
+Delta,neutral,Arrived on time. Standard experience. @Delta
+Virgin America,negative,Why is my flight always delayed without any notice? @VirginAmerica #awful
+Southwest,positive,Love the in-flight entertainment. @Southwest #amazing
+Southwest,negative,Never flying with you again. Absolutely terrible. @Southwest #awful
+Southwest,positive,Thank you for the amazing service. @Southwest #amazing
+American,positive,Very comfortable seats and plenty of legroom. @American #amazing
+Southwest,neutral,Arrived on time. Standard experience. @Southwest
+Virgin America,positive,Love the in-flight entertainment. @VirginAmerica #amazing
+Delta,negative,Worst experience of my life. Flight delayed by 4 hours. @Delta #awful
+United,negative,"Food was awful, could not eat anything. @United #awful"
+US Airways,positive,I had a wonderful flight experience today! The crew was so polite. @USAirways #amazing
+Delta,positive,I had a wonderful flight experience today! The crew was so polite. @Delta #amazing
+US Airways,negative,Why is my flight always delayed without any notice? @USAirways #awful
+American,positive,Great customer service at the gate. @American #amazing
+United,neutral,Boarding was standard. @United
+US Airways,positive,Love the in-flight entertainment. @USAirways #amazing
+American,positive,Very comfortable seats and plenty of legroom. @American #amazing
+United,neutral,"Flight was okay, nothing special. @United"
+Virgin America,neutral,Got from A to B safely. @VirginAmerica
+Delta,neutral,Boarding was standard. @Delta
+Virgin America,negative,Seats are too small and uncomfortable. @VirginAmerica #awful
+United,neutral,Arrived on time. Standard experience. @United
+Virgin America,positive,Love the in-flight entertainment. @VirginAmerica #amazing
+American,positive,Very comfortable seats and plenty of legroom. @American #amazing
+US Airways,positive,Great customer service at the gate. @USAirways #amazing
+American,negative,Never flying with you again. Absolutely terrible. @American #awful
+Delta,negative,The staff was incredibly rude and unhelpful. @Delta #awful
+United,positive,Best flight ever. Will fly with you again. @United #amazing
+United,neutral,Boarding was standard. @United
+Delta,neutral,Boarding was standard. @Delta
+Delta,negative,Worst experience of my life. Flight delayed by 4 hours. @Delta #awful
+Delta,neutral,Just another flight. @Delta
+United,neutral,"Food was okay, pretty standard for airline food. @United"
+US Airways,negative,Why is my flight always delayed without any notice? @USAirways #awful
+Delta,neutral,Got from A to B safely. @Delta
+US Airways,neutral,Just another flight. @USAirways
+American,neutral,"Flight was okay, nothing special. @American"
+American,negative,Seats are too small and uncomfortable. @American #awful
+American,neutral,Boarding was standard. @American
+Delta,neutral,"Food was okay, pretty standard for airline food. @Delta"
+Virgin America,negative,Lost my luggage again... extremely disappointed. @VirginAmerica #awful
+US Airways,neutral,Arrived on time. Standard experience. @USAirways
+Southwest,neutral,Boarding was standard. @Southwest
+American,negative,Worst experience of my life. Flight delayed by 4 hours. @American #awful
+Virgin America,negative,Why is my flight always delayed without any notice? @VirginAmerica #awful
+Delta,positive,Very comfortable seats and plenty of legroom. @Delta #amazing
+US Airways,positive,Love the in-flight entertainment. @USAirways #amazing
+United,positive,Thank you for the amazing service. @United #amazing
+Southwest,neutral,"Food was okay, pretty standard for airline food. @Southwest"
+United,positive,Very comfortable seats and plenty of legroom. @United #amazing
+United,positive,Smooth landing and great pilot. @United #amazing
+US Airways,neutral,"Food was okay, pretty standard for airline food. @USAirways"
+Delta,negative,Seats are too small and uncomfortable. @Delta #awful
+Virgin America,negative,Lost my luggage again... extremely disappointed. @VirginAmerica #awful
+Southwest,neutral,"Food was okay, pretty standard for airline food. @Southwest"
+American,negative,Worst experience of my life. Flight delayed by 4 hours. @American #awful
+US Airways,negative,Never flying with you again. Absolutely terrible. @USAirways #awful
+US Airways,neutral,Got from A to B safely. @USAirways
+Delta,positive,Best flight ever. Will fly with you again. @Delta #amazing
+Southwest,neutral,Just another flight. @Southwest
+Virgin America,positive,The food was surprisingly good. @VirginAmerica #amazing
+Delta,neutral,Arrived on time. Standard experience. @Delta
+Delta,negative,The staff was incredibly rude and unhelpful. @Delta #awful
+Virgin America,neutral,"Flight was okay, nothing special. @VirginAmerica"
+Virgin America,negative,Terrible customer service on the phone. @VirginAmerica #awful
+US Airways,neutral,Arrived on time. Standard experience. @USAirways
+Southwest,negative,Terrible customer service on the phone. @Southwest #awful
+Virgin America,neutral,"Flight was okay, nothing special. @VirginAmerica"
+Southwest,neutral,Average service. Could be better. @Southwest
+American,positive,Great customer service at the gate. @American #amazing
+US Airways,neutral,Boarding was standard. @USAirways
+Southwest,negative,Lost my luggage again... extremely disappointed. @Southwest #awful
+Southwest,neutral,Just another flight. @Southwest
+American,positive,Best flight ever. Will fly with you again. @American #amazing
+Southwest,neutral,Just another flight. @Southwest
+Southwest,neutral,Average service. Could be better. @Southwest
+Delta,positive,Super fast and efficient boarding process. Loved it! @Delta #amazing
+Virgin America,neutral,Arrived on time. Standard experience. @VirginAmerica
+Southwest,negative,"Horrible boarding process, chaotic and stressful. @Southwest #awful"
+Southwest,negative,The staff was incredibly rude and unhelpful. @Southwest #awful
+American,positive,Love the in-flight entertainment. @American #amazing
+United,neutral,Got from A to B safely. @United
+American,negative,Lost my luggage again... extremely disappointed. @American #awful
+Virgin America,positive,Very comfortable seats and plenty of legroom. @VirginAmerica #amazing
+American,negative,"Horrible boarding process, chaotic and stressful. @American #awful"
+American,positive,Best flight ever. Will fly with you again. @American #amazing
+US Airways,neutral,Arrived on time. Standard experience. @USAirways
+Delta,positive,Very comfortable seats and plenty of legroom. @Delta #amazing
+United,neutral,Got from A to B safely. @United
+Southwest,neutral,"Food was okay, pretty standard for airline food. @Southwest"
+United,positive,Smooth landing and great pilot. @United #amazing
+US Airways,negative,"Food was awful, could not eat anything. @USAirways #awful"
+Southwest,negative,Why is my flight always delayed without any notice? @Southwest #awful
+American,negative,Worst experience of my life. Flight delayed by 4 hours. @American #awful
+United,positive,The food was surprisingly good. @United #amazing
+American,positive,Great customer service at the gate. @American #amazing
+Virgin America,negative,"Horrible boarding process, chaotic and stressful. @VirginAmerica #awful"
+United,neutral,"Flight was okay, nothing special. @United"
+US Airways,neutral,Got from A to B safely. @USAirways
+Delta,negative,Never flying with you again. Absolutely terrible. @Delta #awful
+Delta,neutral,Arrived on time. Standard experience. @Delta
+US Airways,positive,The food was surprisingly good. @USAirways #amazing
+Southwest,negative,"Food was awful, could not eat anything. @Southwest #awful"
+United,negative,Worst experience of my life. Flight delayed by 4 hours. @United #awful
+US Airways,negative,Never flying with you again. Absolutely terrible. @USAirways #awful
+American,positive,The food was surprisingly good. @American #amazing
+Southwest,neutral,Boarding was standard. @Southwest
+Delta,negative,Terrible customer service on the phone. @Delta #awful
+American,neutral,"Flight was okay, nothing special. @American"
+American,negative,Never flying with you again. Absolutely terrible. @American #awful
+Delta,positive,Smooth landing and great pilot. @Delta #amazing
+American,negative,Never flying with you again. Absolutely terrible. @American #awful
+Delta,neutral,Arrived on time. Standard experience. @Delta
+US Airways,neutral,Got from A to B safely. @USAirways
+US Airways,negative,Why is my flight always delayed without any notice? @USAirways #awful
+United,positive,Smooth landing and great pilot. @United #amazing
+American,positive,Great customer service at the gate. @American #amazing
+US Airways,neutral,Got from A to B safely. @USAirways
+United,neutral,"Food was okay, pretty standard for airline food. @United"
+American,neutral,Got from A to B safely. @American
+American,neutral,"Food was okay, pretty standard for airline food. @American"
+Delta,neutral,"Flight was okay, nothing special. @Delta"
+Virgin America,positive,Best flight ever. Will fly with you again. @VirginAmerica #amazing
+American,negative,"Horrible boarding process, chaotic and stressful. @American #awful"
+Southwest,neutral,Just another flight. @Southwest
+Southwest,negative,"Food was awful, could not eat anything. @Southwest #awful"
+Southwest,positive,Very comfortable seats and plenty of legroom. @Southwest #amazing
+Southwest,positive,The food was surprisingly good. @Southwest #amazing
+American,negative,"Horrible boarding process, chaotic and stressful. @American #awful"
+United,negative,Lost my luggage again... extremely disappointed. @United #awful
+American,positive,Best flight ever. Will fly with you again. @American #amazing
+American,neutral,Average service. Could be better. @American
+Virgin America,positive,The food was surprisingly good. @VirginAmerica #amazing
+United,positive,Super fast and efficient boarding process. Loved it! @United #amazing
+American,negative,Lost my luggage again... extremely disappointed. @American #awful
+American,positive,Very comfortable seats and plenty of legroom. @American #amazing
+Virgin America,negative,Never flying with you again. Absolutely terrible. @VirginAmerica #awful
+Virgin America,positive,Very comfortable seats and plenty of legroom. @VirginAmerica #amazing
+Delta,positive,Smooth landing and great pilot. @Delta #amazing
+United,negative,Why is my flight always delayed without any notice? @United #awful
+American,negative,"Horrible boarding process, chaotic and stressful. @American #awful"
+Delta,negative,"Food was awful, could not eat anything. @Delta #awful"
+US Airways,positive,Smooth landing and great pilot. @USAirways #amazing
+United,positive,I had a wonderful flight experience today! The crew was so polite. @United #amazing
+Southwest,neutral,Just another flight. @Southwest
+Virgin America,positive,I had a wonderful flight experience today! The crew was so polite. @VirginAmerica #amazing
+Delta,positive,Smooth landing and great pilot. @Delta #amazing
+American,positive,Best flight ever. Will fly with you again. @American #amazing
+US Airways,positive,Best flight ever. Will fly with you again. @USAirways #amazing
+American,positive,Love the in-flight entertainment. @American #amazing
+United,neutral,Average service. Could be better. @United
+Southwest,negative,"Food was awful, could not eat anything. @Southwest #awful"
+American,neutral,Got from A to B safely. @American
+Southwest,neutral,Got from A to B safely. @Southwest
+Virgin America,negative,Terrible customer service on the phone. @VirginAmerica #awful
+Southwest,positive,Best flight ever. Will fly with you again. @Southwest #amazing
+Southwest,negative,Never flying with you again. Absolutely terrible. @Southwest #awful
+American,positive,Thank you for the amazing service. @American #amazing
+United,negative,"Food was awful, could not eat anything. @United #awful"
+Delta,negative,The staff was incredibly rude and unhelpful. @Delta #awful
+Southwest,negative,"Food was awful, could not eat anything. @Southwest #awful"
+US Airways,positive,Smooth landing and great pilot. @USAirways #amazing
+US Airways,positive,Great customer service at the gate. @USAirways #amazing
+American,positive,Best flight ever. Will fly with you again. @American #amazing
+Delta,neutral,Boarding was standard. @Delta
+American,negative,Seats are too small and uncomfortable. @American #awful
+US Airways,neutral,Just another flight. @USAirways
+US Airways,negative,"Food was awful, could not eat anything. @USAirways #awful"
+United,positive,Love the in-flight entertainment. @United #amazing
+American,negative,Why is my flight always delayed without any notice? @American #awful
+Southwest,neutral,Boarding was standard. @Southwest
+American,positive,Thank you for the amazing service. @American #amazing
+US Airways,negative,Worst experience of my life. Flight delayed by 4 hours. @USAirways #awful
+American,positive,Super fast and efficient boarding process. Loved it! @American #amazing
+American,negative,Worst experience of my life. Flight delayed by 4 hours. @American #awful
+Southwest,neutral,Boarding was standard. @Southwest
+US Airways,negative,Terrible customer service on the phone. @USAirways #awful
+Southwest,neutral,"Flight was okay, nothing special. @Southwest"
+American,neutral,Just another flight. @American
+Southwest,positive,I had a wonderful flight experience today! The crew was so polite. @Southwest #amazing
+Southwest,neutral,Got from A to B safely. @Southwest
+US Airways,negative,Lost my luggage again... extremely disappointed. @USAirways #awful
+Southwest,positive,The food was surprisingly good. @Southwest #amazing
+American,positive,Thank you for the amazing service. @American #amazing
+Southwest,positive,Very comfortable seats and plenty of legroom. @Southwest #amazing
+Delta,negative,"Horrible boarding process, chaotic and stressful. @Delta #awful"
+American,neutral,Got from A to B safely. @American
+US Airways,neutral,"Flight was okay, nothing special. @USAirways"
+Southwest,positive,Super fast and efficient boarding process. Loved it! @Southwest #amazing
+US Airways,positive,Super fast and efficient boarding process. Loved it! @USAirways #amazing
+Southwest,negative,The staff was incredibly rude and unhelpful. @Southwest #awful
+Delta,positive,Thank you for the amazing service. @Delta #amazing
+Delta,positive,Love the in-flight entertainment. @Delta #amazing
+Southwest,positive,Love the in-flight entertainment. @Southwest #amazing
+United,positive,The food was surprisingly good. @United #amazing
+American,neutral,Got from A to B safely. @American
+Virgin America,negative,Never flying with you again. Absolutely terrible. @VirginAmerica #awful
+US Airways,neutral,Arrived on time. Standard experience. @USAirways
+Southwest,negative,Worst experience of my life. Flight delayed by 4 hours. @Southwest #awful
+Delta,neutral,Just another flight. @Delta
+Southwest,positive,Great customer service at the gate. @Southwest #amazing
+Virgin America,neutral,Boarding was standard. @VirginAmerica
+Virgin America,neutral,"Flight was okay, nothing special. @VirginAmerica"
+Delta,positive,Best flight ever. Will fly with you again. @Delta #amazing
+Virgin America,positive,Smooth landing and great pilot. @VirginAmerica #amazing
+Delta,neutral,"Flight was okay, nothing special. @Delta"
+Delta,positive,Great customer service at the gate. @Delta #amazing
+US Airways,negative,Seats are too small and uncomfortable. @USAirways #awful
+United,positive,Thank you for the amazing service. @United #amazing
+Delta,positive,I had a wonderful flight experience today! The crew was so polite. @Delta #amazing
+Delta,negative,Worst experience of my life. Flight delayed by 4 hours. @Delta #awful
+Virgin America,negative,Lost my luggage again... extremely disappointed. @VirginAmerica #awful
+Delta,neutral,Just another flight. @Delta
+Southwest,negative,Why is my flight always delayed without any notice? @Southwest #awful
+Southwest,negative,Why is my flight always delayed without any notice? @Southwest #awful
+Delta,positive,Best flight ever. Will fly with you again. @Delta #amazing
+Delta,neutral,"Food was okay, pretty standard for airline food. @Delta"
+US Airways,neutral,Arrived on time. Standard experience. @USAirways
+Virgin America,positive,Great customer service at the gate. @VirginAmerica #amazing
+Delta,neutral,Just another flight. @Delta
+US Airways,negative,Seats are too small and uncomfortable. @USAirways #awful
+Southwest,positive,Smooth landing and great pilot. @Southwest #amazing
+American,negative,"Food was awful, could not eat anything. @American #awful"
+Virgin America,positive,Thank you for the amazing service. @VirginAmerica #amazing
+Delta,positive,Thank you for the amazing service. @Delta #amazing
+United,negative,"Food was awful, could not eat anything. @United #awful"
+US Airways,positive,Very comfortable seats and plenty of legroom. @USAirways #amazing
+Delta,positive,Best flight ever. Will fly with you again. @Delta #amazing
+American,neutral,Got from A to B safely. @American
+Virgin America,neutral,Arrived on time. Standard experience. @VirginAmerica
+United,positive,Super fast and efficient boarding process. Loved it! @United #amazing
+Southwest,neutral,"Food was okay, pretty standard for airline food. @Southwest"
+Delta,neutral,Got from A to B safely. @Delta
+Delta,positive,Very comfortable seats and plenty of legroom. @Delta #amazing
+Delta,neutral,Got from A to B safely. @Delta
+Delta,neutral,Got from A to B safely. @Delta
+Southwest,negative,Never flying with you again. Absolutely terrible. @Southwest #awful
+Virgin America,negative,Worst experience of my life. Flight delayed by 4 hours. @VirginAmerica #awful
+Delta,neutral,Arrived on time. Standard experience. @Delta
+Delta,neutral,Got from A to B safely. @Delta
+Southwest,neutral,Just another flight. @Southwest
+US Airways,neutral,Arrived on time. Standard experience. @USAirways
+US Airways,positive,Love the in-flight entertainment. @USAirways #amazing
+American,neutral,"Flight was okay, nothing special. @American"
+Delta,neutral,"Food was okay, pretty standard for airline food. @Delta"
+United,negative,Seats are too small and uncomfortable. @United #awful
+US Airways,positive,Very comfortable seats and plenty of legroom. @USAirways #amazing
+Delta,negative,Why is my flight always delayed without any notice? @Delta #awful
+United,positive,Thank you for the amazing service. @United #amazing
+Southwest,negative,"Horrible boarding process, chaotic and stressful. @Southwest #awful"
+US Airways,negative,Worst experience of my life. Flight delayed by 4 hours. @USAirways #awful
+Delta,negative,Lost my luggage again... extremely disappointed. @Delta #awful
+American,neutral,"Food was okay, pretty standard for airline food. @American"
+American,negative,Why is my flight always delayed without any notice? @American #awful
+Virgin America,neutral,Arrived on time. Standard experience. @VirginAmerica
+Delta,neutral,Arrived on time. Standard experience. @Delta
+United,neutral,Just another flight. @United
+Southwest,negative,"Horrible boarding process, chaotic and stressful. @Southwest #awful"
+Southwest,positive,Super fast and efficient boarding process. Loved it! @Southwest #amazing
+Delta,negative,The staff was incredibly rude and unhelpful. @Delta #awful
+Southwest,positive,Best flight ever. Will fly with you again. @Southwest #amazing
+United,negative,Why is my flight always delayed without any notice? @United #awful
+American,neutral,Got from A to B safely. @American
+Virgin America,positive,Best flight ever. Will fly with you again. @VirginAmerica #amazing
+Southwest,negative,Terrible customer service on the phone. @Southwest #awful
+US Airways,positive,I had a wonderful flight experience today! The crew was so polite. @USAirways #amazing
+Delta,negative,"Horrible boarding process, chaotic and stressful. @Delta #awful"
+Southwest,positive,Very comfortable seats and plenty of legroom. @Southwest #amazing
+Southwest,neutral,Just another flight. @Southwest
+Southwest,negative,Terrible customer service on the phone. @Southwest #awful
+Delta,neutral,"Food was okay, pretty standard for airline food. @Delta"
+Delta,negative,Seats are too small and uncomfortable. @Delta #awful
+American,neutral,Just another flight. @American
+American,neutral,Arrived on time. Standard experience. @American
+US Airways,neutral,Arrived on time. Standard experience. @USAirways
+Delta,positive,I had a wonderful flight experience today! The crew was so polite. @Delta #amazing
+US Airways,negative,Why is my flight always delayed without any notice? @USAirways #awful
+Virgin America,neutral,Arrived on time. Standard experience. @VirginAmerica
+US Airways,neutral,Got from A to B safely. @USAirways
+Southwest,neutral,Got from A to B safely. @Southwest
+Virgin America,negative,Why is my flight always delayed without any notice? @VirginAmerica #awful
+Southwest,neutral,Arrived on time. Standard experience. @Southwest
+Delta,neutral,"Flight was okay, nothing special. @Delta"
+Virgin America,neutral,"Flight was okay, nothing special. @VirginAmerica"
+Virgin America,negative,Terrible customer service on the phone. @VirginAmerica #awful
+United,neutral,"Food was okay, pretty standard for airline food. @United"
+Delta,positive,Smooth landing and great pilot. @Delta #amazing
+Delta,neutral,Average service. Could be better. @Delta
+Virgin America,positive,Smooth landing and great pilot. @VirginAmerica #amazing
+Delta,neutral,"Food was okay, pretty standard for airline food. @Delta"
+Virgin America,positive,Thank you for the amazing service. @VirginAmerica #amazing
+Virgin America,neutral,Got from A to B safely. @VirginAmerica
+Southwest,negative,The staff was incredibly rude and unhelpful. @Southwest #awful
+American,negative,Terrible customer service on the phone. @American #awful
+Virgin America,negative,Never flying with you again. Absolutely terrible. @VirginAmerica #awful
+Delta,positive,Very comfortable seats and plenty of legroom. @Delta #amazing
+US Airways,neutral,Just another flight. @USAirways
+United,negative,Seats are too small and uncomfortable. @United #awful
+United,negative,"Food was awful, could not eat anything. @United #awful"
+Virgin America,positive,Love the in-flight entertainment. @VirginAmerica #amazing
+US Airways,negative,Seats are too small and uncomfortable. @USAirways #awful
+US Airways,neutral,Average service. Could be better. @USAirways
+US Airways,positive,Best flight ever. Will fly with you again. @USAirways #amazing
+US Airways,negative,Never flying with you again. Absolutely terrible. @USAirways #awful
+Virgin America,negative,Why is my flight always delayed without any notice? @VirginAmerica #awful
+Southwest,positive,Great customer service at the gate. @Southwest #amazing
+Delta,positive,I had a wonderful flight experience today! The crew was so polite. @Delta #amazing
+US Airways,negative,"Horrible boarding process, chaotic and stressful. @USAirways #awful"
+United,neutral,Arrived on time. Standard experience. @United
+Southwest,neutral,"Food was okay, pretty standard for airline food. @Southwest"
+American,positive,I had a wonderful flight experience today! The crew was so polite. @American #amazing
+Delta,neutral,Average service. Could be better. @Delta
+United,positive,Best flight ever. Will fly with you again. @United #amazing
+American,positive,Smooth landing and great pilot. @American #amazing
+Southwest,neutral,"Food was okay, pretty standard for airline food. @Southwest"
+Southwest,neutral,Got from A to B safely. @Southwest
+US Airways,positive,The food was surprisingly good. @USAirways #amazing
+American,neutral,"Food was okay, pretty standard for airline food. @American"
+United,negative,Never flying with you again. Absolutely terrible. @United #awful
+Virgin America,neutral,"Flight was okay, nothing special. @VirginAmerica"
+American,positive,Love the in-flight entertainment. @American #amazing
+Southwest,positive,Great customer service at the gate. @Southwest #amazing
+Southwest,positive,Thank you for the amazing service. @Southwest #amazing
+Delta,neutral,Just another flight. @Delta
+Southwest,neutral,"Food was okay, pretty standard for airline food. @Southwest"
+American,negative,Terrible customer service on the phone. @American #awful
+Virgin America,negative,Worst experience of my life. Flight delayed by 4 hours. @VirginAmerica #awful
+Delta,positive,Super fast and efficient boarding process. Loved it! @Delta #amazing
+Delta,negative,Terrible customer service on the phone. @Delta #awful
+Virgin America,neutral,Arrived on time. Standard experience. @VirginAmerica
+Virgin America,neutral,Arrived on time. Standard experience. @VirginAmerica
+Virgin America,negative,Worst experience of my life. Flight delayed by 4 hours. @VirginAmerica #awful
+US Airways,positive,I had a wonderful flight experience today! The crew was so polite. @USAirways #amazing
+US Airways,negative,Never flying with you again. Absolutely terrible. @USAirways #awful
+American,negative,Lost my luggage again... extremely disappointed. @American #awful
+American,negative,"Food was awful, could not eat anything. @American #awful"
+Virgin America,positive,Very comfortable seats and plenty of legroom. @VirginAmerica #amazing
+Southwest,neutral,Got from A to B safely. @Southwest
+American,neutral,Arrived on time. Standard experience. @American
+Delta,positive,The food was surprisingly good. @Delta #amazing
+Southwest,neutral,"Food was okay, pretty standard for airline food. @Southwest"
+US Airways,positive,Very comfortable seats and plenty of legroom. @USAirways #amazing
+Virgin America,negative,Terrible customer service on the phone. @VirginAmerica #awful
+Southwest,neutral,Got from A to B safely. @Southwest
+Virgin America,neutral,Got from A to B safely. @VirginAmerica
+Virgin America,negative,"Horrible boarding process, chaotic and stressful. @VirginAmerica #awful"
+Virgin America,negative,Lost my luggage again... extremely disappointed. @VirginAmerica #awful
+Virgin America,positive,Smooth landing and great pilot. @VirginAmerica #amazing
+Delta,positive,Smooth landing and great pilot. @Delta #amazing
+United,negative,Why is my flight always delayed without any notice? @United #awful
+American,negative,"Horrible boarding process, chaotic and stressful. @American #awful"
+United,positive,Thank you for the amazing service. @United #amazing
+American,negative,"Food was awful, could not eat anything. @American #awful"
+United,positive,Love the in-flight entertainment. @United #amazing
+Delta,neutral,Got from A to B safely. @Delta
+US Airways,negative,"Horrible boarding process, chaotic and stressful. @USAirways #awful"
+American,positive,Love the in-flight entertainment. @American #amazing
+Southwest,negative,The staff was incredibly rude and unhelpful. @Southwest #awful
+Delta,neutral,Average service. Could be better. @Delta
+American,negative,Never flying with you again. Absolutely terrible. @American #awful
+US Airways,negative,Terrible customer service on the phone. @USAirways #awful
+US Airways,positive,Very comfortable seats and plenty of legroom. @USAirways #amazing
+US Airways,neutral,Got from A to B safely. @USAirways
+United,neutral,"Food was okay, pretty standard for airline food. @United"
+US Airways,positive,Best flight ever. Will fly with you again. @USAirways #amazing
+American,negative,Lost my luggage again... extremely disappointed. @American #awful
+Delta,negative,Seats are too small and uncomfortable. @Delta #awful
+Delta,neutral,Average service. Could be better. @Delta
+Virgin America,neutral,"Food was okay, pretty standard for airline food. @VirginAmerica"
+US Airways,positive,The food was surprisingly good. @USAirways #amazing
+Southwest,negative,Terrible customer service on the phone. @Southwest #awful
+US Airways,neutral,Just another flight. @USAirways
+Virgin America,neutral,"Food was okay, pretty standard for airline food. @VirginAmerica"
+Delta,positive,Best flight ever. Will fly with you again. @Delta #amazing
+United,neutral,Arrived on time. Standard experience. @United
+Virgin America,neutral,Just another flight. @VirginAmerica
+United,neutral,"Flight was okay, nothing special. @United"
+American,neutral,Got from A to B safely. @American
+Southwest,positive,Great customer service at the gate. @Southwest #amazing
+Delta,neutral,"Food was okay, pretty standard for airline food. @Delta"
+United,negative,Seats are too small and uncomfortable. @United #awful
+American,negative,Terrible customer service on the phone. @American #awful
+American,neutral,"Food was okay, pretty standard for airline food. @American"
+United,negative,The staff was incredibly rude and unhelpful. @United #awful
+Southwest,positive,Super fast and efficient boarding process. Loved it! @Southwest #amazing
+American,negative,Why is my flight always delayed without any notice? @American #awful
+US Airways,negative,Why is my flight always delayed without any notice? @USAirways #awful
+Southwest,positive,Very comfortable seats and plenty of legroom. @Southwest #amazing
+Virgin America,positive,The food was surprisingly good. @VirginAmerica #amazing
+Southwest,positive,Thank you for the amazing service. @Southwest #amazing
+US Airways,neutral,Average service. Could be better. @USAirways
+Delta,negative,"Horrible boarding process, chaotic and stressful. @Delta #awful"
+United,positive,Love the in-flight entertainment. @United #amazing
+US Airways,positive,Thank you for the amazing service. @USAirways #amazing
+United,positive,Super fast and efficient boarding process. Loved it! @United #amazing
+Southwest,neutral,Boarding was standard. @Southwest
+Delta,negative,Why is my flight always delayed without any notice? @Delta #awful
+US Airways,neutral,"Food was okay, pretty standard for airline food. @USAirways"
+US Airways,neutral,Average service. Could be better. @USAirways
+Virgin America,negative,"Food was awful, could not eat anything. @VirginAmerica #awful"
+Delta,neutral,"Food was okay, pretty standard for airline food. @Delta"
+Southwest,neutral,"Flight was okay, nothing special. @Southwest"
+American,positive,Best flight ever. Will fly with you again. @American #amazing
+US Airways,neutral,Average service. Could be better. @USAirways
+Delta,neutral,Average service. Could be better. @Delta
+US Airways,positive,Smooth landing and great pilot. @USAirways #amazing
+US Airways,negative,"Horrible boarding process, chaotic and stressful. @USAirways #awful"
+US Airways,positive,Smooth landing and great pilot. @USAirways #amazing
+Virgin America,negative,"Food was awful, could not eat anything. @VirginAmerica #awful"
+US Airways,positive,Great customer service at the gate. @USAirways #amazing
+Delta,neutral,Just another flight. @Delta
+Delta,positive,Smooth landing and great pilot. @Delta #amazing
+United,negative,Why is my flight always delayed without any notice? @United #awful
+US Airways,negative,Seats are too small and uncomfortable. @USAirways #awful
+American,neutral,"Food was okay, pretty standard for airline food. @American"
+Southwest,negative,"Food was awful, could not eat anything. @Southwest #awful"
+Virgin America,neutral,Boarding was standard. @VirginAmerica
+Southwest,neutral,Average service. Could be better. @Southwest
+American,negative,"Food was awful, could not eat anything. @American #awful"
+American,negative,Never flying with you again. Absolutely terrible. @American #awful
+American,positive,I had a wonderful flight experience today! The crew was so polite. @American #amazing
+Delta,positive,Smooth landing and great pilot. @Delta #amazing
+Virgin America,positive,Love the in-flight entertainment. @VirginAmerica #amazing
+Virgin America,negative,The staff was incredibly rude and unhelpful. @VirginAmerica #awful
+American,positive,The food was surprisingly good. @American #amazing
+American,negative,Terrible customer service on the phone. @American #awful
+American,negative,Lost my luggage again... extremely disappointed. @American #awful
+American,neutral,Boarding was standard. @American
+United,neutral,Arrived on time. Standard experience. @United
+Southwest,neutral,Arrived on time. Standard experience. @Southwest
+Virgin America,neutral,Just another flight. @VirginAmerica
+Virgin America,negative,Never flying with you again. Absolutely terrible. @VirginAmerica #awful
+United,neutral,"Flight was okay, nothing special. @United"
+United,negative,Lost my luggage again... extremely disappointed. @United #awful
+Virgin America,positive,Smooth landing and great pilot. @VirginAmerica #amazing
+Virgin America,negative,Worst experience of my life. Flight delayed by 4 hours. @VirginAmerica #awful
+United,positive,The food was surprisingly good. @United #amazing
+American,neutral,Average service. Could be better. @American
+US Airways,negative,"Horrible boarding process, chaotic and stressful. @USAirways #awful"
+Southwest,negative,"Horrible boarding process, chaotic and stressful. @Southwest #awful"
+Delta,positive,Thank you for the amazing service. @Delta #amazing
+Virgin America,neutral,Arrived on time. Standard experience. @VirginAmerica
+American,neutral,Just another flight. @American
+United,positive,Great customer service at the gate. @United #amazing
+Delta,neutral,Arrived on time. Standard experience. @Delta
+United,positive,Very comfortable seats and plenty of legroom. @United #amazing
+American,neutral,Average service. Could be better. @American
+US Airways,negative,"Food was awful, could not eat anything. @USAirways #awful"
+Virgin America,positive,Very comfortable seats and plenty of legroom. @VirginAmerica #amazing
+American,negative,Terrible customer service on the phone. @American #awful
+US Airways,neutral,"Food was okay, pretty standard for airline food. @USAirways"
+Southwest,positive,Best flight ever. Will fly with you again. @Southwest #amazing
+Delta,negative,The staff was incredibly rude and unhelpful. @Delta #awful
+Delta,positive,Very comfortable seats and plenty of legroom. @Delta #amazing
+Virgin America,positive,Very comfortable seats and plenty of legroom. @VirginAmerica #amazing
+United,negative,"Food was awful, could not eat anything. @United #awful"
+Virgin America,neutral,Got from A to B safely. @VirginAmerica
+Virgin America,positive,Love the in-flight entertainment. @VirginAmerica #amazing
+Delta,positive,Smooth landing and great pilot. @Delta #amazing
+American,negative,Lost my luggage again... extremely disappointed. @American #awful
+US Airways,neutral,"Flight was okay, nothing special. @USAirways"
+Southwest,positive,Love the in-flight entertainment. @Southwest #amazing
+American,negative,Worst experience of my life. Flight delayed by 4 hours. @American #awful
+US Airways,positive,Great customer service at the gate. @USAirways #amazing
+Southwest,neutral,Boarding was standard. @Southwest
+US Airways,negative,Terrible customer service on the phone. @USAirways #awful
+Southwest,neutral,Boarding was standard. @Southwest
+US Airways,negative,Seats are too small and uncomfortable. @USAirways #awful
+American,negative,Lost my luggage again... extremely disappointed. @American #awful
+United,positive,Very comfortable seats and plenty of legroom. @United #amazing
+American,neutral,Boarding was standard. @American
+American,positive,I had a wonderful flight experience today! The crew was so polite. @American #amazing
+Delta,neutral,Arrived on time. Standard experience. @Delta
+Delta,neutral,Got from A to B safely. @Delta
+Southwest,neutral,Just another flight. @Southwest
+Southwest,neutral,Boarding was standard. @Southwest
+United,negative,Why is my flight always delayed without any notice? @United #awful
+American,neutral,"Flight was okay, nothing special. @American"
+Southwest,positive,I had a wonderful flight experience today! The crew was so polite. @Southwest #amazing
+American,positive,Great customer service at the gate. @American #amazing
+Southwest,negative,The staff was incredibly rude and unhelpful. @Southwest #awful
+Southwest,positive,Great customer service at the gate. @Southwest #amazing
+United,positive,Smooth landing and great pilot. @United #amazing
+United,negative,Seats are too small and uncomfortable. @United #awful
+Virgin America,positive,I had a wonderful flight experience today! The crew was so polite. @VirginAmerica #amazing
+US Airways,neutral,"Food was okay, pretty standard for airline food. @USAirways"
+Delta,positive,I had a wonderful flight experience today! The crew was so polite. @Delta #amazing
+United,positive,Smooth landing and great pilot. @United #amazing
+American,neutral,Got from A to B safely. @American
+Southwest,neutral,Just another flight. @Southwest
+American,neutral,"Flight was okay, nothing special. @American"
+Delta,neutral,Just another flight. @Delta
+American,negative,The staff was incredibly rude and unhelpful. @American #awful
+US Airways,neutral,Got from A to B safely. @USAirways
+Virgin America,positive,Very comfortable seats and plenty of legroom. @VirginAmerica #amazing
+United,positive,I had a wonderful flight experience today! The crew was so polite. @United #amazing
+Southwest,neutral,Arrived on time. Standard experience. @Southwest
+Southwest,neutral,Arrived on time. Standard experience. @Southwest
+American,negative,Why is my flight always delayed without any notice? @American #awful
+Delta,neutral,Just another flight. @Delta
+Southwest,positive,The food was surprisingly good. @Southwest #amazing
+US Airways,neutral,Arrived on time. Standard experience. @USAirways
+Southwest,positive,Love the in-flight entertainment. @Southwest #amazing
+Virgin America,negative,"Food was awful, could not eat anything. @VirginAmerica #awful"
+US Airways,positive,I had a wonderful flight experience today! The crew was so polite. @USAirways #amazing
+Southwest,neutral,Just another flight. @Southwest
+Southwest,neutral,"Flight was okay, nothing special. @Southwest"
+United,negative,Why is my flight always delayed without any notice? @United #awful
+Southwest,neutral,Arrived on time. Standard experience. @Southwest
+United,positive,Great customer service at the gate. @United #amazing
+United,negative,"Horrible boarding process, chaotic and stressful. @United #awful"
+American,neutral,Boarding was standard. @American
+US Airways,negative,Terrible customer service on the phone. @USAirways #awful
+Virgin America,negative,Terrible customer service on the phone. @VirginAmerica #awful
+Virgin America,negative,The staff was incredibly rude and unhelpful. @VirginAmerica #awful
+Virgin America,neutral,"Food was okay, pretty standard for airline food. @VirginAmerica"
+American,neutral,Average service. Could be better. @American
+Southwest,negative,Why is my flight always delayed without any notice? @Southwest #awful
+Virgin America,positive,Great customer service at the gate. @VirginAmerica #amazing
+American,neutral,"Flight was okay, nothing special. @American"
+Delta,positive,Very comfortable seats and plenty of legroom. @Delta #amazing
+US Airways,neutral,Arrived on time. Standard experience. @USAirways
+US Airways,positive,I had a wonderful flight experience today! The crew was so polite. @USAirways #amazing
+Virgin America,negative,Why is my flight always delayed without any notice? @VirginAmerica #awful
+US Airways,neutral,Got from A to B safely. @USAirways
+Virgin America,neutral,Just another flight. @VirginAmerica
+US Airways,negative,Lost my luggage again... extremely disappointed. @USAirways #awful
+United,neutral,Got from A to B safely. @United
+Southwest,positive,I had a wonderful flight experience today! The crew was so polite. @Southwest #amazing
+Southwest,positive,Great customer service at the gate. @Southwest #amazing
+American,positive,Thank you for the amazing service. @American #amazing
+Virgin America,neutral,Average service. Could be better. @VirginAmerica
+Southwest,positive,Super fast and efficient boarding process. Loved it! @Southwest #amazing
+American,negative,Seats are too small and uncomfortable. @American #awful
+United,positive,Thank you for the amazing service. @United #amazing
+United,neutral,"Food was okay, pretty standard for airline food. @United"
+American,negative,The staff was incredibly rude and unhelpful. @American #awful
+Delta,negative,The staff was incredibly rude and unhelpful. @Delta #awful
+Delta,positive,The food was surprisingly good. @Delta #amazing
+Virgin America,neutral,"Food was okay, pretty standard for airline food. @VirginAmerica"
+Virgin America,negative,Seats are too small and uncomfortable. @VirginAmerica #awful
+Delta,negative,"Food was awful, could not eat anything. @Delta #awful"
+American,negative,Never flying with you again. Absolutely terrible. @American #awful
+Delta,positive,Love the in-flight entertainment. @Delta #amazing
+US Airways,negative,Terrible customer service on the phone. @USAirways #awful
+American,positive,Super fast and efficient boarding process. Loved it! @American #amazing
+Southwest,neutral,Boarding was standard. @Southwest
+United,negative,Terrible customer service on the phone. @United #awful
+Delta,neutral,"Flight was okay, nothing special. @Delta"
+Southwest,neutral,"Food was okay, pretty standard for airline food. @Southwest"
+United,positive,The food was surprisingly good. @United #amazing
+United,negative,Terrible customer service on the phone. @United #awful
+United,neutral,"Flight was okay, nothing special. @United"
+Southwest,negative,"Food was awful, could not eat anything. @Southwest #awful"
+Southwest,negative,"Horrible boarding process, chaotic and stressful. @Southwest #awful"
+United,negative,Terrible customer service on the phone. @United #awful
+American,positive,Very comfortable seats and plenty of legroom. @American #amazing
+Southwest,neutral,"Flight was okay, nothing special. @Southwest"
+American,positive,Love the in-flight entertainment. @American #amazing
+United,negative,Seats are too small and uncomfortable. @United #awful
+United,positive,Thank you for the amazing service. @United #amazing
+Southwest,positive,The food was surprisingly good. @Southwest #amazing
+Southwest,neutral,Got from A to B safely. @Southwest
+United,neutral,Boarding was standard. @United
+Virgin America,positive,Smooth landing and great pilot. @VirginAmerica #amazing
+US Airways,positive,I had a wonderful flight experience today! The crew was so polite. @USAirways #amazing
+American,positive,I had a wonderful flight experience today! The crew was so polite. @American #amazing
+United,positive,I had a wonderful flight experience today! The crew was so polite. @United #amazing
+Virgin America,neutral,"Food was okay, pretty standard for airline food. @VirginAmerica"
+Delta,neutral,Boarding was standard. @Delta
+United,positive,Thank you for the amazing service. @United #amazing
+American,negative,"Food was awful, could not eat anything. @American #awful"
+Delta,negative,Seats are too small and uncomfortable. @Delta #awful
+American,positive,Great customer service at the gate. @American #amazing
+American,negative,"Horrible boarding process, chaotic and stressful. @American #awful"
+Virgin America,negative,Why is my flight always delayed without any notice? @VirginAmerica #awful
+American,positive,Thank you for the amazing service. @American #amazing
+US Airways,positive,Thank you for the amazing service. @USAirways #amazing
+Southwest,neutral,Arrived on time. Standard experience. @Southwest
+Delta,positive,Best flight ever. Will fly with you again. @Delta #amazing
+Delta,neutral,Arrived on time. Standard experience. @Delta
+US Airways,neutral,Just another flight. @USAirways
+United,negative,Terrible customer service on the phone. @United #awful
+US Airways,neutral,Average service. Could be better. @USAirways
+US Airways,negative,"Horrible boarding process, chaotic and stressful. @USAirways #awful"
+Southwest,negative,Never flying with you again. Absolutely terrible. @Southwest #awful
+US Airways,positive,Smooth landing and great pilot. @USAirways #amazing
+Delta,negative,Lost my luggage again... extremely disappointed. @Delta #awful
+Southwest,neutral,"Flight was okay, nothing special. @Southwest"
+US Airways,neutral,Arrived on time. Standard experience. @USAirways
+United,neutral,Just another flight. @United
+Virgin America,neutral,"Food was okay, pretty standard for airline food. @VirginAmerica"
+Southwest,positive,Very comfortable seats and plenty of legroom. @Southwest #amazing
+US Airways,positive,Great customer service at the gate. @USAirways #amazing
+Southwest,positive,Very comfortable seats and plenty of legroom. @Southwest #amazing
+United,positive,Great customer service at the gate. @United #amazing
+United,positive,Super fast and efficient boarding process. Loved it! @United #amazing
+Virgin America,positive,Super fast and efficient boarding process. Loved it! @VirginAmerica #amazing
+Virgin America,positive,Love the in-flight entertainment. @VirginAmerica #amazing
+Virgin America,neutral,Arrived on time. Standard experience. @VirginAmerica
+Delta,positive,Very comfortable seats and plenty of legroom. @Delta #amazing
+Southwest,negative,Never flying with you again. Absolutely terrible. @Southwest #awful
+Virgin America,positive,Very comfortable seats and plenty of legroom. @VirginAmerica #amazing
+Virgin America,positive,Best flight ever. Will fly with you again. @VirginAmerica #amazing
+American,positive,I had a wonderful flight experience today! The crew was so polite. @American #amazing
+Delta,neutral,"Food was okay, pretty standard for airline food. @Delta"
+Southwest,neutral,Got from A to B safely. @Southwest
+Southwest,negative,Worst experience of my life. Flight delayed by 4 hours. @Southwest #awful
+Virgin America,positive,Super fast and efficient boarding process. Loved it! @VirginAmerica #amazing
+American,neutral,Arrived on time. Standard experience. @American
+US Airways,negative,Why is my flight always delayed without any notice? @USAirways #awful
+American,negative,Worst experience of my life. Flight delayed by 4 hours. @American #awful
+Virgin America,negative,Worst experience of my life. Flight delayed by 4 hours. @VirginAmerica #awful
+Delta,neutral,Arrived on time. Standard experience. @Delta
+US Airways,positive,Smooth landing and great pilot. @USAirways #amazing
+Virgin America,negative,Never flying with you again. Absolutely terrible. @VirginAmerica #awful
+Southwest,neutral,Just another flight. @Southwest
+Delta,positive,Smooth landing and great pilot. @Delta #amazing
+US Airways,positive,I had a wonderful flight experience today! The crew was so polite. @USAirways #amazing
+Southwest,positive,Thank you for the amazing service. @Southwest #amazing
+Delta,negative,Why is my flight always delayed without any notice? @Delta #awful
+Virgin America,negative,Worst experience of my life. Flight delayed by 4 hours. @VirginAmerica #awful
+Southwest,positive,Great customer service at the gate. @Southwest #amazing
+Virgin America,positive,Love the in-flight entertainment. @VirginAmerica #amazing
+US Airways,positive,Smooth landing and great pilot. @USAirways #amazing
+Virgin America,neutral,Boarding was standard. @VirginAmerica
+Southwest,negative,The staff was incredibly rude and unhelpful. @Southwest #awful
+US Airways,negative,Terrible customer service on the phone. @USAirways #awful
+Southwest,negative,Why is my flight always delayed without any notice? @Southwest #awful
+Virgin America,neutral,Just another flight. @VirginAmerica
+United,negative,Seats are too small and uncomfortable. @United #awful
+United,neutral,"Food was okay, pretty standard for airline food. @United"
+Delta,negative,Lost my luggage again... extremely disappointed. @Delta #awful
+American,positive,Super fast and efficient boarding process. Loved it! @American #amazing
+American,neutral,Got from A to B safely. @American
+American,positive,Great customer service at the gate. @American #amazing
+United,neutral,Got from A to B safely. @United
+Delta,neutral,Just another flight. @Delta
+Virgin America,positive,Thank you for the amazing service. @VirginAmerica #amazing
+Virgin America,negative,Terrible customer service on the phone. @VirginAmerica #awful
+Virgin America,negative,Worst experience of my life. Flight delayed by 4 hours. @VirginAmerica #awful
+Virgin America,negative,Why is my flight always delayed without any notice? @VirginAmerica #awful
+Delta,negative,Why is my flight always delayed without any notice? @Delta #awful
+Virgin America,neutral,Average service. Could be better. @VirginAmerica
+Virgin America,positive,The food was surprisingly good. @VirginAmerica #amazing
+Southwest,neutral,"Flight was okay, nothing special. @Southwest"
+Southwest,negative,The staff was incredibly rude and unhelpful. @Southwest #awful
+United,negative,Terrible customer service on the phone. @United #awful
+US Airways,positive,Thank you for the amazing service. @USAirways #amazing
+Delta,positive,Thank you for the amazing service. @Delta #amazing
+Virgin America,neutral,Got from A to B safely. @VirginAmerica
+American,negative,"Horrible boarding process, chaotic and stressful. @American #awful"
+Delta,negative,Never flying with you again. Absolutely terrible. @Delta #awful
+Delta,neutral,"Food was okay, pretty standard for airline food. @Delta"
+Virgin America,neutral,Arrived on time. Standard experience. @VirginAmerica
+Delta,positive,Very comfortable seats and plenty of legroom. @Delta #amazing
+US Airways,negative,Worst experience of my life. Flight delayed by 4 hours. @USAirways #awful
+US Airways,negative,Why is my flight always delayed without any notice? @USAirways #awful
+Virgin America,neutral,Boarding was standard. @VirginAmerica
+Delta,neutral,"Food was okay, pretty standard for airline food. @Delta"
+American,positive,Great customer service at the gate. @American #amazing
+American,neutral,Arrived on time. Standard experience. @American
+United,neutral,Average service. Could be better. @United
+United,negative,The staff was incredibly rude and unhelpful. @United #awful
+Southwest,neutral,Boarding was standard. @Southwest
+American,negative,Seats are too small and uncomfortable. @American #awful
+US Airways,neutral,Just another flight. @USAirways
+American,positive,I had a wonderful flight experience today! The crew was so polite. @American #amazing
+Virgin America,positive,Great customer service at the gate. @VirginAmerica #amazing
+Southwest,positive,Great customer service at the gate. @Southwest #amazing
+Southwest,negative,Lost my luggage again... extremely disappointed. @Southwest #awful
+American,neutral,Boarding was standard. @American
+Delta,positive,I had a wonderful flight experience today! The crew was so polite. @Delta #amazing
+United,positive,The food was surprisingly good. @United #amazing
+US Airways,neutral,"Flight was okay, nothing special. @USAirways"
+Virgin America,positive,Very comfortable seats and plenty of legroom. @VirginAmerica #amazing
+US Airways,negative,Terrible customer service on the phone. @USAirways #awful
+Southwest,negative,Seats are too small and uncomfortable. @Southwest #awful
+Virgin America,negative,The staff was incredibly rude and unhelpful. @VirginAmerica #awful
+Southwest,negative,"Food was awful, could not eat anything. @Southwest #awful"
+Virgin America,negative,Seats are too small and uncomfortable. @VirginAmerica #awful
+American,neutral,Average service. Could be better. @American
+Southwest,negative,Worst experience of my life. Flight delayed by 4 hours. @Southwest #awful
+US Airways,negative,Never flying with you again. Absolutely terrible. @USAirways #awful
+United,positive,Great customer service at the gate. @United #amazing
+Delta,negative,Why is my flight always delayed without any notice? @Delta #awful
