@@ -93,12 +93,12 @@ with st.spinner("Processing text data..."):
 # Model Training cache
 @st.cache_resource
 def train_model(dataframe):
-    vectorizer = TfidfVectorizer(max_features=5000)
+    vectorizer = TfidfVectorizer(max_features=5000, ngram_range=(1, 2))
     X = vectorizer.fit_transform(dataframe['clean_text'])
     y = dataframe['airline_sentiment']
     
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-    model = LogisticRegression(max_iter=1000)
+    model = LogisticRegression(max_iter=1000, class_weight='balanced')
     model.fit(X_train, y_train)
     
     y_pred = model.predict(X_test)
