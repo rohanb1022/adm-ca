@@ -1,6 +1,6 @@
 # 🗣️ Opinion Mining & Sentiment Analysis Hub
 
-A premium **Streamlit** dashboard designed to analyze social media sentiment toward major US airlines. This application uses **Machine Learning (Logistic Regression)** and **Natural Language Processing (NLP)** to extract insights from public tweets.
+A premium **Streamlit** dashboard designed to analyze social media sentiment toward major airlines. This application uses **Machine Learning (Logistic Regression)** and **Natural Language Processing (NLP)** to extract insights from public tweets.
 
 ---
 
